@@ -4,6 +4,7 @@ import pickle
 import numpy as np
 import pandas as pd
 from pathlib import Path
+import xgboost as xgb
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -58,8 +59,9 @@ FEATURES_PATH = Path(__file__).parent / "feature_columns.json"
 
 @st.cache_resource
 def load_model():
-    with open(MODEL_PATH, "rb") as f:
-        return pickle.load(f)
+    model = xgb.XGBRegressor()
+    model.load_model('pricing_model.json')
+    return model
 
 @st.cache_data
 def load_feature_columns():
@@ -155,10 +157,6 @@ def build_feature_row(inputs: dict, feature_columns: list) -> pd.DataFrame:
     for label, col in ADDONS:
         row[col] = 1 if inputs["addons"].get(label, False) else 0
 
-    # Residual2: simple proxy — use door_size × quantity as base indicator
-    base = inputs["door_size"] * inputs["quantity"]
-    flat_mods = sum(1 for label, _ in ADDONS if inputs["addons"].get(label))
-    row["Residual2"] = max(0, base - flat_mods * 10)
 
     return pd.DataFrame([row])[feature_columns]
 
