@@ -90,13 +90,13 @@ WORK_TYPES = [
 PRODUCT_TYPES = [
     "Dock Bumper", "Dock Door", "Dock Leveler", "Dock Seal/Shelter",
     "Door (General)", "Drive-In Door", "Fire Door/Shutter",
-    "Fire Door/Shutter Drop Test", "Hardware/Parts",
+    "Fire Door/Shutter, Drop Test", "Hardware/Parts",
     "Hardware/Parts; Door (General)", "High Speed Door", "Impact Door",
     "Labor", "Operator/Opener", "Operator/Opener; Door (General)",
     "Other/Misc", "Remote/Photo Eye", "Residential Door", "Rolling Steel Door",
     "Rolling Steel Door; Operator/Opener", "Rytec Door", "Screen/Bug Door",
     "Shutter", "Specialty Door", "TNR Door", "Telehandler",
-    "Traffic/Crash Door", "Weather Seal", "telehandler4",
+    "Traffic/Crash Door", "Weather Seal",
 ]
 
 ADDONS = [
@@ -136,15 +136,27 @@ def build_feature_row(inputs: dict, feature_columns: list) -> pd.DataFrame:
     row["distance3"] = inputs["distance"]
     row["Distance Tier"] = inputs["distance_tier"]
 
-    # Work type — one-hot
-    wt_col = "Work_type_" + inputs["work_type"]
+    # Work type — one-hot (handle both original and lowercase versions)
+    work_type_mapped = inputs["work_type"]
+    wt_col = "Work_type_" + work_type_mapped
     if wt_col in row:
         row[wt_col] = 1
+    # Also set lowercase if it exists and is different
+    wt_col_lower = "Work_type_" + work_type_mapped.lower()
+    if wt_col_lower in row and wt_col_lower != wt_col:
+        row[wt_col_lower] = 1
 
-    # Product type — one-hot
-    pt_col = "Product_type_" + inputs["product_type"]
+    # Product type — one-hot (handle both original and comma-corrected versions)
+    product_type_mapped = inputs["product_type"]
+    # Map common variations
+    product_type_mapped = product_type_mapped.replace("Fire Door/Shutter Drop Test", "Fire Door/Shutter, Drop Test")
+    pt_col = "Product_type_" + product_type_mapped
     if pt_col in row:
         row[pt_col] = 1
+    # Also set lowercase if it exists and is different
+    pt_col_lower = "Product_type_" + product_type_mapped.lower()
+    if pt_col_lower in row and pt_col_lower != pt_col:
+        row[pt_col_lower] = 1
 
     # Job details
     row["Quantity"]  = inputs["quantity"]
@@ -156,7 +168,6 @@ def build_feature_row(inputs: dict, feature_columns: list) -> pd.DataFrame:
     # Add-ons
     for label, col in ADDONS:
         row[col] = 1 if inputs["addons"].get(label, False) else 0
-
 
     return pd.DataFrame([row])[feature_columns]
 
