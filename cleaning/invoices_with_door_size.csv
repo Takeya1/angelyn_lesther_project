@@ -1,0 +1,577 @@
+Customer Tier,Transaction date,Replace,Remove,Firedoor,Drop Test,Bumpers,Is_customer_Lenworth,Specialty Door,Dock Seal,Door(general),Hardware/Parts,Dimensions,Column1,Work_type,sqft_services,Flat_Services,Operator/Opener,Install,Quantity,Sales price,Amount,Totals,Distance,service,Distance Tier,unique,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,door_width,door_height,door_sqft,size_source,size_confidence,size_note
+Recurring,02/10/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,22000.0,22000.0,24860.0,61.63,Door (General) Install,0,,,,,,,,3635.0,back_calculated,high,back_calculated | raw=3636.4 snapped=3635
+Loyalty,20/12/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,20200.0,20200.0,22826.0,49.68,Door (General) Install,0,,,,,,,,4590.0,back_calculated,high,back_calculated | raw=4590.9 snapped=4590
+Loyalty,13/02/2026,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,,17000.0,17000.0,19210.0,170.0,Door (General) Install,1,,,,,,,,3865.0,back_calculated,high,back_calculated | raw=3863.6 snapped=3865
+Recurring,07/07/2021,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,1.0,14200.0,14200.0,16046.0,216.53, Install,2,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,27/02/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,13335.0,13335.0,15068.55,8.98,Door (General) Install,0,,,,,,,,3030.0,back_calculated,high,back_calculated | raw=3030.7 snapped=3030
+Loyalty,15/03/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,12000.0,12000.0,13560.0,122.09,Door (General) Install,1,,,,,,,,2725.0,back_calculated,high,back_calculated | raw=2727.3 snapped=2725
+New,29/03/2023,0,0,0,0,0,0,0,0,1,0,16 * 16,,Other/Misc,Door (General),Operator/Opener,0,0,1.0,10930.0,10930.0,12350.9,696.34,,5,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,27/02/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,10910.0,10910.0,12328.3,129.9,Door (General) Install,1,,,,,,,,2480.0,back_calculated,high,back_calculated | raw=2479.5 snapped=2480
+New,03/10/2022,0,0,0,0,0,0,0,0,1,0,14 * 16,,Supply & Install,Door (General),Operator/Opener,0,0,1.0,10080.0,10080.0,11390.4,281.96,Door (General) Supply & Install,2,,,,,Door (General) Install,,,1665.0,back_calculated,high,back_calculated | raw=1666.1 snapped=1665
+Recurring,10/12/2025,0,0,0,0,0,0,0,0,1,0,9 * 10,,Install,Door (General),,0,1,1.0,550.0,9900.0,11187.0,44.0,Door (General) Install,0,,,,, Install,,,,standard_default,low,no_size_applicable
+Loyalty,03/03/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,,9600.0,9600.0,10848.0,167.35,Door (General) Install,1,,,,,0,,,2180.0,back_calculated,high,back_calculated | raw=2181.8 snapped=2180
+Recurring,13/06/2023,0,0,0,0,0,0,0,0,1,0,16 * 14,,Supply & Install,Door (General),Operator/Opener,0,0,1.0,8810.0,8810.0,9955.3,349.43,Door (General) Supply & Install,3,,,,,Door (General) Supply & Install,,,1455.0,back_calculated,high,back_calculated | raw=1456.2 snapped=1455
+New,29/03/2023,0,0,0,0,0,0,0,0,1,0,14 * 14,,Other/Misc,Door (General),Operator/Opener,0,0,1.0,8535.0,8535.0,9644.55,696.34,,5,,,,,High Speed Door Install,,,,standard_default,low,no_size_applicable
+Loyalty,19/08/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,20.0,30975.0,30975.0,35001.75,51.68,Door (General) Install,0,,,,,High Speed Door Supply & Install,,,7040.0,back_calculated,high,back_calculated | raw=7039.8 snapped=7040
+Loyalty,28/05/2024,1,0,0,0,0,1,0,0,1,0,9 * 10,,Replace,Door (General),,0,0,1.0,8150.0,8150.0,9209.5,143.9,,1,,,,,Other/Misc Install,,,,standard_default,low,no_size_applicable
+Recurring,03/02/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,8030.0,8030.0,9073.9,185.77,Door (General) Install,1,,,,,Fire Door Install,,,1325.0,back_calculated,high,back_calculated | raw=1327.3 snapped=1325
+Loyalty,05/02/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,7500.0,7500.0,8475.0,95.71,Door (General) Install,0,,,,,Traffic/Crash Door Install,,,1705.0,back_calculated,high,back_calculated | raw=1704.5 snapped=1705
+Recurring,24/07/2023,0,0,0,0,0,0,0,0,1,0,9 * 7,,Supply & Install,Door (General),,0,0,1.0,7340.0,7340.0,8294.2,249.85,Door (General) Supply & Install,2,,,,,Remote/Photo Eye Install,,,1215.0,back_calculated,high,back_calculated | raw=1213.2 snapped=1215
+Recurring,08/07/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,6980.0,6980.0,7887.4,164.0,Door (General) Install,1,,,,,Hardware/Parts Install,,,1155.0,back_calculated,high,back_calculated | raw=1153.7 snapped=1155
+Recurring,22/11/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,6575.0,6575.0,7429.75,68.31,Door (General) Install,0,,,,,Hardware/Parts Supply & Install,,,1085.0,back_calculated,high,back_calculated | raw=1086.8 snapped=1085
+New,14/07/2024,0,0,0,0,0,0,0,0,1,0,11 *9,,Install,Door (General),Operator/Opener,0,1,1.0,6450.0,6450.0,7288.5,190.0,Door (General) Install,1,,,,,,,,1065.0,back_calculated,high,back_calculated | raw=1066.1 snapped=1065
+Loyalty,20/11/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,6441.0,6441.0,7278.33,51.62,Door (General) Install,0,,,,,,,,1465.0,back_calculated,high,back_calculated | raw=1463.9 snapped=1465
+Recurring,03/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,2.0,6145.0,12290.0,13887.7,360.92,Door (General) Install,3,,,,,,,,1015.0,back_calculated,high,back_calculated | raw=1015.7 snapped=1015
+Loyalty,17/08/2021,0,0,0,0,0,1,0,0,1,0,17 * 18 & 17 * 16,,Install,Door (General),,0,1,1.0,6069.0,6069.0,6857.97,51.62,Door (General) Install,0,,,,,,,,1380.0,back_calculated,high,back_calculated | raw=1379.3 snapped=1380
+Recurring,07/06/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,6000.0,6000.0,6780.0,17.58,Door (General) Install,0,,,,,,,,990.0,back_calculated,high,back_calculated | raw=991.7 snapped=990
+Recurring,20/09/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,5900.0,5900.0,6667.0,279.3,Door (General) Install,2,,,,,,,,975.0,back_calculated,high,back_calculated | raw=975.2 snapped=975
+Loyalty,02/10/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,5850.0,5850.0,6610.5,147.2,Door (General) Install,1,,,,,,,,1330.0,back_calculated,high,back_calculated | raw=1329.5 snapped=1330
+Recurring,22/04/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,5325.0,5325.0,6017.25,549.6,Door (General) Install,5,,,,,,,,880.0,back_calculated,high,back_calculated | raw=880.2 snapped=880
+Recurring,28/12/2020,0,0,0,0,0,0,0,0,1,0,18 * 10,,Supply & Install,Door (General),Operator/Opener,0,0,1.0,5150.0,5150.0,5819.5,218.0,Door (General) Supply & Install,2,,,,,,,,850.0,back_calculated,high,back_calculated | raw=851.2 snapped=850
+Recurring,10/06/2021,0,0,0,0,0,0,0,0,1,0,,,Supply & Install,Door (General),Operator/Opener,0,0,1.0,5120.0,5120.0,5785.6,137.0,Door (General) Supply & Install,1,,,,,,,,845.0,back_calculated,high,back_calculated | raw=846.3 snapped=845
+Loyalty,07/10/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,5000.0,5000.0,5650.0,51.8,Door (General) Install,0,,,,,,,,1135.0,back_calculated,high,back_calculated | raw=1136.4 snapped=1135
+Recurring,07/10/2024,0,0,0,0,0,0,0,0,1,0,12 * 10,,Supply & Install,Door (General),,0,0,1.0,4950.0,4950.0,5593.5,51.62,Door (General) Supply & Install,0,,,,,,,,820.0,back_calculated,high,back_calculated | raw=818.2 snapped=820
+Recurring,17/03/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,2.0,4855.0,9710.0,10972.3,116.0,Door (General) Install,1,,,,,,,,800.0,back_calculated,high,back_calculated | raw=802.5 snapped=800
+Loyalty,03/10/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,4750.0,4750.0,5367.5,145.54,Door (General) Install,1,,,,,,,,1080.0,back_calculated,high,back_calculated | raw=1079.5 snapped=1080
+Recurring,19/06/2025,0,0,0,0,0,0,0,0,1,0,9 * 8,,Supply & Install,Door (General),,0,0,3.0,4650.0,13950.0,15763.5,401.57,Door (General) Supply & Install,4,,,,,,,,770.0,back_calculated,high,back_calculated | raw=768.6 snapped=770
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,4600.0,4600.0,5198.0,68.14,Door (General) Install,0,,,,,,,,760.0,back_calculated,high,back_calculated | raw=760.3 snapped=760
+New,21/03/2023,0,0,0,0,0,0,0,0,1,0,10 * 8,,Supply Only,Door (General),,0,0,2.0,8560.0,8560.0,9672.8,338.24,,3,,,,,,,,,standard_default,low,no_size_applicable
+New,14/11/2020,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,2.0,8531.0,8531.0,9640.03,286.95,Door (General) Install,2,,,,,,,,1410.0,back_calculated,high,back_calculated | raw=1410.1 snapped=1410
+Recurring,02/10/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,4200.0,4200.0,4746.0,57.73,Door (General) Install,0,,,,,,,,695.0,back_calculated,high,back_calculated | raw=694.2 snapped=695
+Recurring,08/04/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,4200.0,4200.0,4746.0,138.0,Door (General) Install,1,,,,,,,,695.0,back_calculated,high,back_calculated | raw=694.2 snapped=695
+Recurring,16/04/2025,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,8.0,33100.0,33100.0,37403.0,20.4,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,14/06/2023,0,0,0,0,0,0,0,0,1,0,12 * 10,,Supply & Install,Door (General),,0,0,1.0,4125.0,4125.0,4661.25,175.0,Door (General) Supply & Install,1,,,,,,,,680.0,back_calculated,high,back_calculated | raw=681.8 snapped=680
+New,18/11/2024,0,0,0,0,0,0,0,0,1,0,12 * 12,,Supply Only,Door (General),,0,0,1.0,4100.0,4100.0,4633.0,169.0,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,4100.0,4100.0,4633.0,178.84,Door (General) Install,1,,,,,,,,680.0,back_calculated,high,back_calculated | raw=677.7 snapped=680
+Recurring,22/10/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,4100.0,4100.0,4633.0,690.81,Door (General) Install,5,,,,,,,,680.0,back_calculated,high,back_calculated | raw=677.7 snapped=680
+Recurring,16/11/2023,0,0,0,0,0,0,0,0,1,0,10 * 8,,Supply & Install,Door (General),,0,0,1.0,4050.0,4050.0,4576.5,502.0,Door (General) Supply & Install,5,,,,,,,,670.0,back_calculated,high,back_calculated | raw=669.4 snapped=670
+Loyalty,14/04/2025,0,0,0,0,0,1,0,0,0,0,,,Install,High Speed Door,,0,1,1.0,4000.0,4000.0,4520.0,22.13,High Speed Door Install,0,,,,,,,,835.0,back_calculated,high,back_calculated | raw=833.3 snapped=835
+New,05/02/2026,0,0,0,0,0,0,0,0,1,0,,,Supply & Install,Door (General),,0,0,1.0,3960.0,3960.0,4474.8,71.53,Door (General) Supply & Install,0,,,,,,,,655.0,back_calculated,high,back_calculated | raw=654.5 snapped=655
+Loyalty,11/12/2023,0,0,0,0,0,1,0,0,0,0,,,Supply & Install,High Speed Door,,0,0,2.0,7700.0,7700.0,8701.0,42.66,High Speed Door Supply & Install,0,,,,,,,,1605.0,back_calculated,high,back_calculated | raw=1604.2 snapped=1605
+Recurring,15/05/2023,0,0,0,0,0,0,0,0,1,0,9 * 8,,Supply & Install,Door (General),,0,0,1.0,3820.0,3820.0,4316.6,412.0,Door (General) Supply & Install,4,,,,,,,,630.0,back_calculated,high,back_calculated | raw=631.4 snapped=630
+Recurring,27/07/2024,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,3750.0,3750.0,4237.5,254.0,Door (General) Install,2,,,,,,,,620.0,back_calculated,high,back_calculated | raw=619.8 snapped=620
+Loyalty,10/12/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,3750.0,3750.0,4237.5,266.81,Door (General) Install,2,,,,,,,,850.0,back_calculated,high,back_calculated | raw=852.3 snapped=850
+Recurring,17/03/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,2.0,3630.0,7260.0,8203.8,119.96,Door (General) Install,1,,,,,,,,600.0,back_calculated,high,back_calculated | raw=600.0 snapped=600
+Recurring,01/02/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,3600.0,3600.0,4068.0,58.01,Door (General) Install,0,,,,,,,,595.0,back_calculated,high,back_calculated | raw=595.0 snapped=595
+Loyalty,20/11/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,100.0,3600.0,4068.0,109.0,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,31/12/2022,0,0,0,0,0,0,0,0,1,0,14 * 8,,Install,Door (General),,0,1,1.0,3550.0,3550.0,4011.5,231.4,Door (General) Install,2,,,,,,,,585.0,back_calculated,high,back_calculated | raw=586.8 snapped=585
+Recurring,06/06/2025,0,0,0,0,0,0,0,0,1,0,,,Supply & Install,Door (General),Operator/Opener,0,0,1.0,3525.0,3525.0,3983.25,204.0,Door (General) Supply & Install,2,,,,,,,,585.0,back_calculated,high,back_calculated | raw=582.6 snapped=585
+Recurring,22/04/2023,0,1,0,0,0,0,0,0,1,0,20.6 * 22,,Remove and Replace,Door (General),,0,0,1.0,3500.0,3500.0,3955.0,45.1,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,15/05/2023,0,0,0,0,0,0,0,0,1,0,9 * 7,,Supply & Install,Door (General),,0,0,2.0,3480.0,6960.0,7864.8,412.0,Door (General) Supply & Install,4,,,,,,,,575.0,back_calculated,high,back_calculated | raw=575.2 snapped=575
+Recurring,21/02/2024,0,0,0,0,0,0,0,0,1,0,12 * 8,,Supply & Install,Door (General),,0,0,1.0,3450.0,3450.0,3898.5,119.59,Door (General) Supply & Install,1,,,,,,,,570.0,back_calculated,high,back_calculated | raw=570.2 snapped=570
+Recurring,29/03/2024,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,2.0,3375.0,6750.0,7627.5,160.0,Door (General) Install,1,,,,,,,,560.0,back_calculated,high,back_calculated | raw=557.9 snapped=560
+Recurring,21/10/2025,0,0,0,0,0,0,0,0,1,0,12 * 8 & 8 * 8,,Supply & Install,Door (General),,0,0,2.0,6725.0,6725.0,7599.25,232.0,Door (General) Supply & Install,2,,,,,,,,1110.0,back_calculated,high,back_calculated | raw=1111.6 snapped=1110
+New,27/09/2025,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,6.0,20000.0,20000.0,22600.0,156.01,Door (General) Install,1,,,,,,,,3305.0,back_calculated,high,back_calculated | raw=3305.8 snapped=3305
+Loyalty,14/12/2020,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,6.0,21200.0,21200.0,23956.0,167.35,Door (General) Install,1,,,,,,,,4820.0,back_calculated,high,back_calculated | raw=4818.2 snapped=4820
+Recurring,02/08/2021,0,0,0,0,0,0,0,0,1,0,16 * 8,,Supply & Install,Door (General),,0,0,1.0,3280.0,3280.0,3706.4,468.78,Door (General) Supply & Install,4,,,,,,,,540.0,back_calculated,high,back_calculated | raw=542.1 snapped=540
+New,18/12/2020,0,0,0,0,0,0,0,0,1,0,,,Supply & Install,Door (General),,0,0,1.0,3270.0,3270.0,3695.1,34.03,Door (General) Supply & Install,0,,,,,,,,540.0,back_calculated,high,back_calculated | raw=540.5 snapped=540
+Loyalty,26/11/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,3268.0,3268.0,3692.84,68.56,Door (General) Install,0,,,,,,,,745.0,back_calculated,high,back_calculated | raw=742.7 snapped=745
+Recurring,02/12/2024,0,0,0,0,0,0,0,0,1,0,10 * 8,,Supply & Install,Door (General),,0,0,2.0,3240.0,6480.0,7322.4,404.55,Door (General) Supply & Install,4,,,,,,,,535.0,back_calculated,high,back_calculated | raw=535.5 snapped=535
+Recurring,15/03/2021,0,0,0,0,0,0,0,0,1,0,12 * 9,,Install,Door (General),,0,1,1.0,3220.0,3220.0,3638.6,166.52,Door (General) Install,1,,,,,,,,530.0,back_calculated,high,back_calculated | raw=532.2 snapped=530
+Recurring,20/03/2025,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,3200.0,3200.0,3616.0,136.29,Door (General) Install,1,,,,,,,,530.0,back_calculated,high,back_calculated | raw=528.9 snapped=530
+Recurring,10/04/2024,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,2.0,6200.0,6200.0,7006.0,83.94,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,20/03/2023,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,1.0,3040.0,3040.0,3435.2,63.41,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,29/07/2023,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,1.0,3000.0,3000.0,3390.0,139.8,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,19/05/2022,0,0,0,0,0,0,0,0,1,0,16 * 7,,Supply & Install,Door (General),,0,0,1.0,2860.0,2860.0,3231.8,49.68,Door (General) Supply & Install,0,,,,,,,,475.0,back_calculated,high,back_calculated | raw=472.7 snapped=475
+Recurring,17/05/2022,0,0,0,0,0,0,0,0,1,0,9 * 10,,Supply Only,Door (General),,0,0,2.0,2820.0,5640.0,6373.2,163.0,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,26/07/2022,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,1.0,2800.0,2800.0,3164.0,29.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,05/02/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2790.0,2790.0,3152.7,159.0,Door (General) Install,1,,,,,,,,460.0,back_calculated,high,back_calculated | raw=461.2 snapped=460
+Loyalty,30/06/2022,0,0,0,0,0,1,0,0,0,0,,,Install,Other/Misc,,0,1,1.0,2700.0,2700.0,3051.0,8.76,Other/Misc Install,0,,,,,,,,615.0,back_calculated,high,back_calculated | raw=613.6 snapped=615
+Recurring,14/06/2023,0,0,0,0,0,0,0,0,1,0,8 * 7,,Supply & Install,Door (General),,0,0,1.0,2690.0,2690.0,3039.7,180.79,Door (General) Supply & Install,1,,,,,,,,445.0,back_calculated,high,back_calculated | raw=444.6 snapped=445
+Recurring,27/02/2023,0,0,0,0,0,0,0,0,1,0,9 * 8,,Supply & Install,Door (General),,0,0,1.0,2640.0,2640.0,2983.2,328.33,Door (General) Supply & Install,3,,,,,,,,435.0,back_calculated,high,back_calculated | raw=436.4 snapped=435
+Recurring,20/12/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2620.0,2620.0,2960.6,417.21,Door (General) Install,4,,,,,,,,435.0,back_calculated,high,back_calculated | raw=433.1 snapped=435
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,19.02,Door (General) Install,0,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,36.71,Door (General) Install,0,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,53.7,Door (General) Install,0,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,31/12/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,54.37,Door (General) Install,0,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,58.12,Door (General) Install,0,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,66.0,Door (General) Install,0,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,66.06,Door (General) Install,0,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,73.08,Door (General) Install,0,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,73.08,Door (General) Install,0,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,31/12/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,94.97,Door (General) Install,0,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,113.0,Door (General) Install,1,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,130.61,Door (General) Install,1,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,131.6,Door (General) Install,1,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,139.47,Door (General) Install,1,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,22/10/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,143.13,Door (General) Install,1,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,22/10/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,157.52,Door (General) Install,1,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,177.82,Door (General) Install,1,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,194.6,Door (General) Install,1,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,202.99,Door (General) Install,2,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,207.83,Door (General) Install,2,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,569.81,Door (General) Install,5,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,949.12,Door (General) Install,5,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2600.0,2600.0,2938.0,955.56,Door (General) Install,5,,,,,,,,430.0,back_calculated,high,back_calculated | raw=429.8 snapped=430
+Recurring,27/02/2023,0,0,0,0,0,0,0,0,1,0,10 * 7.6,,Supply & Install,Door (General),,0,0,3.0,2590.0,7770.0,8780.1,121.97,Door (General) Supply & Install,1,,,,,,,,430.0,back_calculated,high,back_calculated | raw=428.1 snapped=430
+Recurring,11/10/2023,0,0,0,0,0,0,0,0,1,0,9 * 8,,Supply & Install,Door (General),,0,0,2.0,5120.0,5120.0,5785.6,538.39,Door (General) Supply & Install,5,,,,,,,,845.0,back_calculated,high,back_calculated | raw=846.3 snapped=845
+Recurring,20/03/2023,0,0,0,0,0,0,0,0,1,0,9 * 8,,Supply & Install,Door (General),,0,0,2.0,2540.0,5080.0,5740.4,306.0,Door (General) Supply & Install,3,,,,,,,,420.0,back_calculated,high,back_calculated | raw=419.8 snapped=420
+Recurring,06/03/2025,0,0,0,0,0,0,0,0,1,0,8 * 8,,Supply & Install,Door (General),,0,0,2.0,2520.0,5040.0,5695.2,307.37,Door (General) Supply & Install,3,,,,,,,,415.0,back_calculated,high,back_calculated | raw=416.5 snapped=415
+New,12/01/2023,0,0,0,0,0,0,0,0,0,0,24 * 14,,Install,High Speed Door,,0,1,1.0,2500.0,2500.0,2825.0,190.16,High Speed Door Install,1,,,,,,,,380.0,back_calculated,high,back_calculated | raw=378.8 snapped=380
+Recurring,29/01/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,4.0,2500.0,10000.0,11300.0,209.27,Door (General) Install,2,,,,,,,,415.0,back_calculated,high,back_calculated | raw=413.2 snapped=415
+Recurring,25/02/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2500.0,2500.0,2825.0,211.68,Door (General) Install,2,,,,,,,,415.0,back_calculated,high,back_calculated | raw=413.2 snapped=415
+Loyalty,19/02/2025,0,0,0,0,0,1,0,0,0,0,14 * 16,,Install,High Speed Door,,0,1,1.0,2500.0,2500.0,2825.0,259.03,High Speed Door Install,2,,,,,,,,520.0,back_calculated,high,back_calculated | raw=520.8 snapped=520
+Loyalty,02/10/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,2500.0,2500.0,2825.0,314.6,Door (General) Install,3,,,,,,,,570.0,back_calculated,high,back_calculated | raw=568.2 snapped=570
+Recurring,11/10/2023,0,0,0,0,0,0,0,0,1,0,10 * 8,,Install,Door (General),,0,1,2.0,4944.0,4944.0,5586.72,204.0,Door (General) Install,2,,,,,,,,815.0,back_calculated,high,back_calculated | raw=817.2 snapped=815
+Recurring,01/10/2024,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,1.0,2450.0,2450.0,2768.5,212.53,,2,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,26/07/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,30.49,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,40.7,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,31/08/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,52.64,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,58.37,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,61.15,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,31/12/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,71.01,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,26/07/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,79.09,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,85.7,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,30/06/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,90.87,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,30/06/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,94.97,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,105.39,Door (General) Install,1,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,31/08/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,109.26,Door (General) Install,1,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,112.99,Door (General) Install,1,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,116.11,Door (General) Install,1,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,22/10/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,117.05,Door (General) Install,1,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,30/09/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,120.75,Door (General) Install,1,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,31/12/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,122.26,Door (General) Install,1,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,26/07/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,152.0,Door (General) Install,1,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,31/08/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,165.92,Door (General) Install,1,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,31/08/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,204.01,Door (General) Install,2,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,31/08/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,212.42,Door (General) Install,2,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,341.34,Door (General) Install,3,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,31/12/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,368.22,Door (General) Install,3,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,31/12/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,433.17,Door (General) Install,4,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2400.0,2400.0,2712.0,491.9,Door (General) Install,4,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,19/08/2023,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,2.0,4700.0,4700.0,5311.0,56.19,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,25/10/2024,0,0,0,0,0,0,0,0,1,0,8 * 7,,Supply & Install,Door (General),,0,0,1.0,2350.0,2350.0,2655.5,369.23,Door (General) Supply & Install,3,,,,,,,,390.0,back_calculated,high,back_calculated | raw=388.4 snapped=390
+Recurring,11/10/2023,1,0,0,0,0,0,0,0,1,0,16 * 16,,Replace,Door (General),,0,0,1.0,2300.0,2300.0,2599.0,55.09,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,27/02/2023,0,0,0,0,0,0,0,0,0,0,,,Install,Fire Door,,0,1,1.0,2300.0,2300.0,2599.0,74.41,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=380.2 snapped=64
+Recurring,14/06/2023,0,1,0,0,0,0,0,0,0,0,14 * 14,,Remove and Replace,Traffic/Crash Door,,0,0,2.0,4500.0,4500.0,5085.0,63.41,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,27/04/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2200.0,2200.0,2486.0,115.05,Door (General) Install,1,,,,,,,,365.0,back_calculated,high,back_calculated | raw=363.6 snapped=365
+Recurring,27/02/2023,0,0,0,0,0,0,0,0,1,0,,,Supply & Install,Door (General),,0,0,2.0,2155.0,4310.0,4870.3,132.89,Door (General) Supply & Install,1,,,,,,,,355.0,back_calculated,high,back_calculated | raw=356.2 snapped=355
+Recurring,28/02/2023,0,0,0,0,0,0,0,0,1,0,,,Labor,Door (General),,0,0,1.0,2150.0,2150.0,2429.5,66.56,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,19/08/2023,0,0,0,0,0,0,0,0,1,0,,,Supply & Install,Door (General),,0,0,1.0,2125.0,2125.0,2401.25,187.75,Door (General) Supply & Install,1,,,,,,,,350.0,back_calculated,high,back_calculated | raw=351.2 snapped=350
+Recurring,08/05/2024,0,0,0,0,0,0,0,0,1,0,6 * 3,,Install,Door (General),,0,1,1.0,2125.0,2125.0,2401.25,242.08,Door (General) Install,2,,,,,,,,350.0,back_calculated,high,back_calculated | raw=351.2 snapped=350
+Recurring,31/12/2022,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,1.0,2100.0,2100.0,2373.0,0.51,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,24/03/2023,0,0,0,0,0,1,0,0,1,0,20 * 14,,Install,Door (General),,0,1,1.0,2100.0,2100.0,2373.0,81.67,Door (General) Install,0,,,,,,,,475.0,back_calculated,high,back_calculated | raw=477.3 snapped=475
+Recurring,15/03/2021,0,0,0,0,0,0,0,0,1,0,12 * 9,,Supply & Install,Door (General),,0,0,3.0,2090.0,6270.0,7085.1,132.51,Door (General) Supply & Install,1,,,,,,,,345.0,back_calculated,high,back_calculated | raw=345.5 snapped=345
+Recurring,03/02/2025,0,0,0,0,0,0,0,0,1,0,16 * 21,,Supply & Install,Door (General),,0,0,1.0,2050.0,2050.0,2316.5,38.08,Door (General) Supply & Install,0,,,,,,,,340.0,back_calculated,high,back_calculated | raw=338.8 snapped=340
+New,26/07/2022,0,0,0,0,0,0,0,0,1,0,10 * 8,,Other/Misc,Door (General),,0,0,2.0,2040.0,4080.0,4610.4,313.04,,3,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,30/06/2022,0,0,0,0,0,0,0,0,1,0,6 * 4,,Supply & Install,Door (General),,0,0,1.0,2010.0,2010.0,2271.3,186.56,Door (General) Supply & Install,1,,,,,,,,330.0,back_calculated,high,back_calculated | raw=332.2 snapped=330
+Recurring,26/04/2024,0,0,0,0,0,0,0,0,0,0,12 * 14,,Install,Fire Door,Drop Test,0,1,1.0,2000.0,2000.0,2260.0,42.62,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=330.6 snapped=64
+Loyalty,23/04/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,2000.0,2000.0,2260.0,117.03,Door (General) Install,1,,,,,,,,455.0,back_calculated,high,back_calculated | raw=454.5 snapped=455
+Loyalty,03/05/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,2000.0,2000.0,2260.0,173.08,Door (General) Install,1,,,,,,,,455.0,back_calculated,high,back_calculated | raw=454.5 snapped=455
+Loyalty,29/09/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,2000.0,2000.0,2260.0,173.81,Door (General) Install,1,,,,,,,,455.0,back_calculated,high,back_calculated | raw=454.5 snapped=455
+Loyalty,16/10/2021,0,0,0,0,0,1,0,0,0,0,,,Relocate,Fire Door,,0,0,1.0,2000.0,2000.0,2260.0,318.22,,3,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,24/10/2020,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,2000.0,2000.0,2260.0,335.61,Door (General) Install,3,,,,,,,,330.0,back_calculated,high,back_calculated | raw=330.6 snapped=330
+Recurring,01/02/2023,0,0,0,0,0,0,0,0,1,0,4 * 3,,Supply & Install,Door (General),,0,0,1.0,1975.0,1975.0,2231.75,127.83,Door (General) Supply & Install,1,,,,,,,,325.0,back_calculated,high,back_calculated | raw=326.4 snapped=325
+Recurring,17/03/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,3.0,1970.0,5910.0,6678.3,373.98,Door (General) Install,3,,,,,,,,325.0,back_calculated,high,back_calculated | raw=325.6 snapped=325
+Recurring,24/07/2023,0,0,0,0,0,0,0,0,1,0,7 * 6,,Supply & Install,Door (General),,0,0,1.0,1965.0,1965.0,2220.45,231.4,Door (General) Supply & Install,2,,,,,,,,325.0,back_calculated,high,back_calculated | raw=324.8 snapped=325
+Recurring,14/06/2023,0,0,0,0,0,0,0,0,1,0,6 * 7,,Supply & Install,Door (General),,0,0,1.0,1960.0,1960.0,2214.8,152.76,Door (General) Supply & Install,1,,,,,,,,325.0,back_calculated,high,back_calculated | raw=324.0 snapped=325
+Recurring,17/05/2022,0,0,0,0,0,0,0,0,1,0,8 * 7,,Supply & Install,Door (General),,0,0,1.0,1955.0,1955.0,2209.15,231.4,Door (General) Supply & Install,2,,,,,,,,325.0,back_calculated,high,back_calculated | raw=323.1 snapped=325
+Recurring,26/07/2022,0,0,0,0,0,0,0,0,1,0,8 * 7,,Other/Misc,Door (General),,0,0,1.0,1955.0,1955.0,2209.15,231.4,,2,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,29/04/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,1950.0,1950.0,2203.5,50.45,Door (General) Install,0,,,,,,,,320.0,back_calculated,high,back_calculated | raw=322.3 snapped=320
+Recurring,22/10/2022,0,0,0,0,0,0,0,0,1,0,8 * 7,,Supply & Install,Door (General),,0,0,1.0,1950.0,1950.0,2203.5,225.26,Door (General) Supply & Install,2,,,,,,,,320.0,back_calculated,high,back_calculated | raw=322.3 snapped=320
+Recurring,22/10/2022,0,0,0,0,0,0,0,0,1,0,8 * 7,,Supply & Install,Door (General),,0,0,1.0,1950.0,1950.0,2203.5,226.51,Door (General) Supply & Install,2,,,,,,,,320.0,back_calculated,high,back_calculated | raw=322.3 snapped=320
+Loyalty,08/04/2022,0,0,0,0,0,1,0,0,0,0,,,Install,High Speed Door,,0,1,1.0,1837.0,1837.0,2075.81,807.32,High Speed Door Install,5,,,,,,,,385.0,back_calculated,high,back_calculated | raw=382.7 snapped=385
+Recurring,17/03/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,2.0,1810.0,3620.0,4090.6,159.0,Door (General) Install,1,,,,,,,,300.0,back_calculated,high,back_calculated | raw=299.2 snapped=300
+Recurring,24/05/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,1800.0,1800.0,2034.0,58.84,Door (General) Install,0,,,,,,,,300.0,back_calculated,high,back_calculated | raw=297.5 snapped=300
+Loyalty,09/12/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1800.0,1800.0,2034.0,109.0,Door (General) Install,1,,,,,,,,410.0,back_calculated,high,back_calculated | raw=409.1 snapped=410
+Recurring,03/05/2024,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,1.0,1800.0,1800.0,2034.0,163.12,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,22/04/2024,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,1.0,1800.0,1800.0,2034.0,328.0,,3,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,25/01/2024,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,1.0,1800.0,1800.0,2034.0,329.07,,3,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,20/06/2022,0,0,0,0,0,0,0,0,1,0,6 * 7,,Supply & Install,Door (General),,0,0,1.0,1760.0,1760.0,1988.8,168.0,Door (General) Supply & Install,1,,,,,,,,290.0,back_calculated,high,back_calculated | raw=290.9 snapped=290
+Loyalty,21/09/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,14.0,1700.0,23800.0,26894.0,51.84,Door (General) Install,0,,,,,,,,385.0,back_calculated,high,back_calculated | raw=386.4 snapped=385
+Loyalty,10/10/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,4.0,6800.0,6800.0,7684.0,52.0,Door (General) Install,0,,,,,,,,1545.0,back_calculated,high,back_calculated | raw=1545.5 snapped=1545
+Recurring,16/01/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,1700.0,1700.0,1921.0,93.4,Door (General) Install,0,,,,,,,,280.0,back_calculated,high,back_calculated | raw=281.0 snapped=280
+Recurring,27/09/2021,0,0,0,0,0,0,0,0,1,0,,,Supply & Install,Door (General),,0,0,2.0,1690.0,3380.0,3819.4,417.21,Door (General) Supply & Install,4,,,,,,,,280.0,back_calculated,high,back_calculated | raw=279.3 snapped=280
+Loyalty,08/04/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1690.0,1690.0,1909.7,800.0,Door (General) Install,5,,,,,,,,385.0,back_calculated,high,back_calculated | raw=384.1 snapped=385
+New,22/10/2022,0,0,0,0,0,0,0,0,1,0,,,Modify,Door (General),,0,0,1.0,1675.0,1675.0,1892.75,281.96,,2,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,06/11/2024,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,2.0,3250.0,3250.0,3672.5,8.98,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=738.6 snapped=64
+Loyalty,27/10/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,6.0,9700.0,9700.0,10961.0,211.68,Door (General) Install,2,,,,,,,,2205.0,back_calculated,high,back_calculated | raw=2204.5 snapped=2205
+Recurring,24/05/2021,0,0,0,0,0,0,0,0,1,0,,,Supply & Install,Door (General),Extra Work,0,0,2.0,1610.0,3220.0,3638.6,222.0,Door (General) Supply & Install,2,,,,,,,,265.0,back_calculated,high,back_calculated | raw=266.1 snapped=265
+Recurring,21/03/2026,0,1,0,0,0,0,0,0,1,0,14 * 14,,Remove and Replace,Door (General),,0,0,1.0,1600.0,1600.0,1808.0,50.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,22/10/2022,0,1,0,0,0,1,0,0,1,0,,,Remove and Replace,Door (General),,0,0,11.0,1600.0,17600.0,19888.0,59.08,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,24/07/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,1600.0,1600.0,1808.0,76.45,Door (General) Install,0,,,,,,,,265.0,back_calculated,high,back_calculated | raw=264.5 snapped=265
+Recurring,22/11/2024,0,0,0,0,0,0,0,0,1,0,12 * 14,,Install,Door (General),Operator/Opener,0,1,1.0,1600.0,1600.0,1808.0,122.2,Door (General) Install,1,,,,,,,,265.0,back_calculated,high,back_calculated | raw=264.5 snapped=265
+Loyalty,19/01/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,2.0,3200.0,3200.0,3616.0,150.99,Door (General) Install,1,,,,,,,,725.0,back_calculated,high,back_calculated | raw=727.3 snapped=725
+Recurring,05/02/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,1600.0,1600.0,1808.0,329.07,Door (General) Install,3,,,,,,,,265.0,back_calculated,high,back_calculated | raw=264.5 snapped=265
+Recurring,16/01/2021,0,0,0,0,0,0,0,0,1,0,9 * 8,,Install,Door (General),,0,1,2.0,1590.0,3180.0,3593.4,231.4,Door (General) Install,2,,,,,,,,265.0,back_calculated,high,back_calculated | raw=262.8 snapped=265
+New,03/10/2022,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,1.0,1550.0,1550.0,1751.5,40.54,,0,,,,,,,,,standard_default,low,no_size_applicable
+New,26/07/2022,0,0,0,0,0,0,0,0,1,0,,,Supply Only,Door (General),,0,0,1.0,1550.0,1550.0,1751.5,108.0,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,19/08/2023,0,0,0,0,0,0,0,0,1,0,7 * 7,,Supply & Install,Door (General),,0,0,1.0,1550.0,1550.0,1751.5,234.0,Door (General) Supply & Install,2,,,,,,,,255.0,back_calculated,high,back_calculated | raw=256.2 snapped=255
+Recurring,20/03/2023,0,0,0,0,0,0,0,0,1,0,6 * 7,,Supply & Install,Door (General),,0,0,1.0,1550.0,1550.0,1751.5,248.31,Door (General) Supply & Install,2,,,,,,,,255.0,back_calculated,high,back_calculated | raw=256.2 snapped=255
+Loyalty,01/02/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,1500.0,3000.0,3390.0,17.0,Door (General) Install,0,,,,,,,,340.0,back_calculated,high,back_calculated | raw=340.9 snapped=340
+Loyalty,01/07/2025,1,0,0,0,0,1,0,0,1,0,,,Replace,Door (General),Operator/Opener,0,0,2.0,1500.0,3000.0,3390.0,23.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,29/03/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1500.0,1500.0,1695.0,36.8,Door (General) Install,0,,,,,,,,340.0,back_calculated,high,back_calculated | raw=340.9 snapped=340
+Recurring,30/06/2022,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),Operator/Opener,0,0,1.0,1500.0,1500.0,1695.0,45.1,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,24/07/2023,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,1.0,1500.0,1500.0,1695.0,49.09,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,27/02/2023,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,1.0,1500.0,1500.0,1695.0,55.09,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,24/07/2023,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),Operator/Opener,0,0,1.0,1500.0,1500.0,1695.0,59.68,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,0,0,,,Install,High Speed Door,,0,1,1.0,1500.0,1500.0,1695.0,59.75,High Speed Door Install,0,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Loyalty,06/06/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,1500.0,1500.0,1695.0,90.83,Door (General) Install,0,,,,,,,,340.0,back_calculated,high,back_calculated | raw=340.9 snapped=340
+Recurring,01/06/2024,0,0,0,0,0,0,0,0,0,0,,,Labor,,Extra Work,0,0,1.0,1500.0,1500.0,1695.0,91.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,23/04/2022,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,1.0,1500.0,1500.0,1695.0,115.05,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,20/09/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,4.0,6000.0,6000.0,6780.0,126.91,Door (General) Install,1,,,,,,,,990.0,back_calculated,high,back_calculated | raw=991.7 snapped=990
+Loyalty,09/10/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,1500.0,1500.0,1695.0,156.0,Door (General) Install,1,,,,,,,,340.0,back_calculated,high,back_calculated | raw=340.9 snapped=340
+Loyalty,02/10/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1500.0,1500.0,1695.0,324.0,Door (General) Install,3,,,,,,,,340.0,back_calculated,high,back_calculated | raw=340.9 snapped=340
+Loyalty,06/06/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,3.0,4350.0,4350.0,4915.5,90.4,Door (General) Install,0,,,,,,,,990.0,back_calculated,high,back_calculated | raw=988.6 snapped=990
+Recurring,14/04/2023,0,0,0,0,0,0,0,0,1,0,8 * 10 ,,Supply & Install,Door (General),Extra Work,0,0,3.0,4280.5,4280.5,4836.965,254.0,Door (General) Supply & Install,2,,,,,,,,710.0,back_calculated,high,back_calculated | raw=707.5 snapped=710
+Recurring,09/11/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,1400.0,1400.0,1582.0,39.94,Door (General) Install,0,,,,,,,,230.0,back_calculated,high,back_calculated | raw=231.4 snapped=230
+Recurring,02/02/2026,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,1400.0,1400.0,1582.0,46.2,Door (General) Install,0,,,,,,,,230.0,back_calculated,high,back_calculated | raw=231.4 snapped=230
+Loyalty,01/04/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,1400.0,2800.0,3164.0,51.46,Door (General) Install,0,,,,,,,,320.0,back_calculated,high,back_calculated | raw=318.2 snapped=320
+Loyalty,04/05/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,1400.0,1400.0,1582.0,67.23,Door (General) Install,0,,,,,,,,320.0,back_calculated,high,back_calculated | raw=318.2 snapped=320
+Loyalty,07/06/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1400.0,1400.0,1582.0,67.23,Door (General) Install,0,,,,,,,,320.0,back_calculated,high,back_calculated | raw=318.2 snapped=320
+Recurring,11/12/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,2.0,2800.0,2800.0,3164.0,78.73,Door (General) Install,0,,,,,,,,465.0,back_calculated,high,back_calculated | raw=462.8 snapped=465
+Loyalty,07/02/2025,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,,0,1,1.0,1375.0,1375.0,1553.75,43.0,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=312.5 snapped=64
+Loyalty,06/12/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,3.0,1375.0,4125.0,4661.25,62.6,Door (General) Install,0,,,,,,,,310.0,back_calculated,high,back_calculated | raw=312.5 snapped=310
+Loyalty,02/12/2024,0,0,0,0,0,1,0,0,1,0,10 * 8,,Install,Door (General),,0,1,4.0,5500.0,5500.0,6215.0,404.55,Door (General) Install,4,,,,,,,,1250.0,back_calculated,high,back_calculated | raw=1250.0 snapped=1250
+Loyalty,26/11/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,2700.0,2700.0,3051.0,50.18,Door (General) Install,0,,,,,,,,615.0,back_calculated,high,back_calculated | raw=613.6 snapped=615
+Loyalty,29/03/2024,0,0,0,0,0,1,0,0,0,0,,,Install,Traffic/Crash Door,,0,1,3.0,4000.0,4000.0,4520.0,20.6,Traffic/Crash Door Install,0,,,,,,,,910.0,back_calculated,high,back_calculated | raw=909.1 snapped=910
+Recurring,03/02/2025,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,1300.0,1300.0,1469.0,38.0,Door (General) Install,0,,,,,,,,215.0,back_calculated,high,back_calculated | raw=214.9 snapped=215
+Loyalty,08/07/2021,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,,0,1,11.0,1300.0,14300.0,16159.0,76.51,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=295.5 snapped=64
+Loyalty,20/08/2025,0,0,0,0,0,1,0,0,1,0,10 * 12,,Install,Door (General),,0,1,1.0,1300.0,1300.0,1469.0,156.01,Door (General) Install,1,,,,,,,,295.0,back_calculated,high,back_calculated | raw=295.5 snapped=295
+Recurring,28/04/2025,0,0,0,0,0,0,0,0,1,0,8.8 * 10,,Install,Door (General),,0,1,1.0,1250.0,1250.0,1412.5,82.0,Door (General) Install,0,,,,,,,,205.0,back_calculated,high,back_calculated | raw=206.6 snapped=205
+Recurring,29/07/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,2.0,2500.0,2500.0,2825.0,117.4,Door (General) Install,1,,,,,,,,415.0,back_calculated,high,back_calculated | raw=413.2 snapped=415
+Loyalty,21/10/2025,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,2.0,3000.0,3000.0,3390.0,126.01,Fire Door Install,1,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=681.8 snapped=64
+Recurring,27/11/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,2.0,1200.0,2400.0,2712.0,19.0,Door (General) Install,0,,,,,,,,200.0,back_calculated,high,back_calculated | raw=198.3 snapped=200
+Recurring,29/07/2023,0,0,0,0,0,0,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,1.0,1200.0,1200.0,1356.0,45.6,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=198.3 snapped=64
+Recurring,17/08/2021,0,0,0,0,0,0,0,0,0,0,14 * 14,,Install,High Speed Door,,0,1,1.0,1200.0,1200.0,1356.0,55.7,High Speed Door Install,0,,,,,,,,180.0,back_calculated,high,back_calculated | raw=181.8 snapped=180
+Recurring,05/02/2022,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,1.0,1200.0,1200.0,1356.0,58.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,04/12/2021,0,0,0,0,0,0,0,0,1,0,16 * 2,,Install,Door (General),,0,1,2.0,2400.0,2400.0,2712.0,85.44,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,24/10/2020,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,3.0,1200.0,3600.0,4068.0,97.32,Door (General) Install,0,,,,,,,,200.0,back_calculated,high,back_calculated | raw=198.3 snapped=200
+Loyalty,03/05/2021,0,0,0,0,0,1,0,0,1,0,20 * 14,,Install,Door (General),Operator/Opener,0,1,2.0,1200.0,2400.0,2712.0,147.13,Door (General) Install,1,,,,,,,,275.0,back_calculated,high,back_calculated | raw=272.7 snapped=275
+Recurring,02/06/2024,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,1200.0,1200.0,1356.0,154.0,Door (General) Install,1,,,,,,,,200.0,back_calculated,high,back_calculated | raw=198.3 snapped=200
+Loyalty,29/12/2023,0,0,0,0,0,1,0,0,0,0,,,Labor,,Extra Work,0,0,1.0,1200.0,1200.0,1356.0,200.0,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,27/10/2025,0,0,0,0,0,0,0,0,0,0,,,Relocate,,Extra Work,0,0,1.0,1200.0,1200.0,1356.0,316.79,,3,,,,,,,,,standard_default,low,no_size_applicable
+New,10/09/2025,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,1200.0,1200.0,1356.0,333.42,Door (General) Install,3,,,,,,,,200.0,back_calculated,high,back_calculated | raw=198.3 snapped=200
+Recurring,31/12/2022,0,0,0,0,0,0,0,0,1,0,,,Other/Misc,Door (General),,0,0,1.0,1200.0,1200.0,1356.0,682.64,,5,,,,,,,,,standard_default,low,no_size_applicable
+New,14/11/2020,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,1190.0,1190.0,1344.7,352.38,Door (General) Install,3,,,,,,,,195.0,back_calculated,high,back_calculated | raw=196.7 snapped=195
+Recurring,26/07/2022,0,0,0,0,0,0,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,2.0,2830.0,2830.0,3197.9,234.0,Fire Door Install,2,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=467.8 snapped=64
+Loyalty,22/01/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,3.0,3400.0,3400.0,3842.0,57.35,Door (General) Install,0,,,,,,,,775.0,back_calculated,high,back_calculated | raw=772.7 snapped=775
+Loyalty,19/08/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,3.0,3400.0,3400.0,3842.0,167.8,Door (General) Install,1,,,,,,,,775.0,back_calculated,high,back_calculated | raw=772.7 snapped=775
+New,06/01/2026,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,9.0,10100.0,10100.0,11413.0,89.0,Door (General) Install,0,,,,,,,,1670.0,back_calculated,high,back_calculated | raw=1669.4 snapped=1670
+Recurring,24/10/2020,0,0,0,0,0,0,0,0,1,0,,,Other/Misc,Door (General),,0,0,1.0,1105.0,1105.0,1248.65,231.4,,2,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,20/06/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,1100.0,1100.0,1243.0,27.0,Door (General) Install,0,,,,,,,,180.0,back_calculated,high,back_calculated | raw=181.8 snapped=180
+Loyalty,27/05/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,1100.0,1100.0,1243.0,50.65,Door (General) Install,0,,,,,,,,250.0,back_calculated,high,back_calculated | raw=250.0 snapped=250
+Loyalty,17/05/2022,0,0,0,0,0,1,0,0,0,0,,,Install,High Speed Door,,0,1,1.0,1100.0,1100.0,1243.0,74.67,High Speed Door Install,0,,,,,,,,230.0,back_calculated,high,back_calculated | raw=229.2 snapped=230
+New,27/05/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,8.0,1100.0,8800.0,9944.0,170.28,Door (General) Install,1,,,,,,,,180.0,back_calculated,high,back_calculated | raw=181.8 snapped=180
+Loyalty,04/08/2025,0,0,0,0,0,1,0,0,1,0,,,"Labor
+",Door (General),,0,0,11.0,1100.0,12100.0,13673.0,190.5,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,31/08/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,15.0,16425.0,16425.0,18560.25,85.44,Door (General) Install,0,,,,,,,,2715.0,back_calculated,high,back_calculated | raw=2714.9 snapped=2715
+Loyalty,28/03/2023,0,0,0,0,0,1,0,0,1,0,,,Supply Only,Door (General),,0,0,1.0,1050.0,1050.0,1186.5,30.57,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,26/11/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,4.0,4200.0,4200.0,4746.0,53.39,Door (General) Install,0,,,,,,,,955.0,back_calculated,high,back_calculated | raw=954.5 snapped=955
+Loyalty,04/08/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,1050.0,2100.0,2373.0,157.0,Door (General) Install,1,,,,,,,,240.0,back_calculated,high,back_calculated | raw=238.6 snapped=240
+Loyalty,14/04/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,3.0,3100.0,3100.0,3503.0,47.74,Door (General) Install,0,,,,,,,,705.0,back_calculated,high,back_calculated | raw=704.5 snapped=705
+Recurring,26/03/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,5.0,1020.0,5100.0,5763.0,50.45,Door (General) Install,0,,,,,,,,170.0,back_calculated,high,back_calculated | raw=168.6 snapped=170
+Loyalty,23/04/2025,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,,0,1,6.0,6100.0,6100.0,6893.0,80.9,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=1386.4 snapped=64
+Loyalty,06/06/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,6.0,6100.0,6100.0,6893.0,141.1,Door (General) Install,1,,,,,,,,1385.0,back_calculated,high,back_calculated | raw=1386.4 snapped=1385
+Loyalty,14/06/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1000.0,1000.0,1130.0,27.56,Door (General) Install,0,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Recurring,15/05/2023,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,1.0,1000.0,1000.0,1130.0,33.51,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,02/04/2025,0,0,0,0,0,1,0,0,1,0,,,Repair,Door (General),,0,0,1.0,1000.0,1000.0,1130.0,42.51,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,29/03/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,2000.0,2000.0,2260.0,46.88,Door (General) Install,0,,,,,,,,455.0,back_calculated,high,back_calculated | raw=454.5 snapped=455
+Loyalty,20/11/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1000.0,1000.0,1130.0,51.62,Door (General) Install,0,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Loyalty,08/04/2022,0,1,0,0,0,1,0,0,1,0,,,Remove,Door (General),Operator/Opener,0,0,1.0,1000.0,1000.0,1130.0,51.68,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,21/09/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1000.0,1000.0,1130.0,52.0,Door (General) Install,0,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Loyalty,13/09/2021,1,0,0,0,0,1,0,0,0,0,,,Replace,Other/Misc,,0,0,1.0,1000.0,1000.0,1130.0,55.71,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,22/11/2024,0,0,0,0,0,0,0,0,1,0,8 * 10,,Install,Door (General),,0,1,1.0,1000.0,1000.0,1130.0,58.0,Door (General) Install,0,,,,,,,,165.0,back_calculated,high,back_calculated | raw=165.3 snapped=165
+Loyalty,05/02/2022,0,0,0,0,0,1,0,0,1,0,,,Labor,Door (General),,0,0,1.0,1000.0,1000.0,1130.0,61.33,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,08/07/2021,0,0,0,0,0,1,0,0,0,0,,,Install,High Speed Door,,0,1,7.0,1000.0,7000.0,7910.0,67.23,High Speed Door Install,0,,,,,,,,210.0,back_calculated,high,back_calculated | raw=208.3 snapped=210
+Recurring,26/03/2022,0,0,0,0,0,0,0,0,0,0,,,Install,Fire Door,,0,1,1.0,1000.0,1000.0,1130.0,73.0,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=165.3 snapped=64
+Loyalty,20/06/2022,0,1,0,0,0,1,0,0,1,0,,,Remove and Replace,Door (General),,0,0,2.0,1000.0,2000.0,2260.0,74.68,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,06/06/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1000.0,1000.0,1130.0,75.03,Door (General) Install,0,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Loyalty,28/03/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1000.0,1000.0,1130.0,76.0,Door (General) Install,0,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Loyalty,14/05/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,4.0,1000.0,4000.0,4520.0,76.51,Door (General) Install,0,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Recurring,28/03/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,2.0,1000.0,2000.0,2260.0,88.25,Door (General) Install,0,,,,,,,,165.0,back_calculated,high,back_calculated | raw=165.3 snapped=165
+Recurring,05/07/2021,0,0,0,0,0,0,0,0,0,0,,,Install,High Speed Door,,0,1,2.0,2000.0,2000.0,2260.0,92.95,High Speed Door Install,0,,,,,,,,305.0,back_calculated,high,back_calculated | raw=303.0 snapped=305
+Loyalty,24/05/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1000.0,1000.0,1130.0,147.13,Door (General) Install,1,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Loyalty,05/11/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,3.0,3000.0,3000.0,3390.0,170.0,Door (General) Install,1,,,,,,,,680.0,back_calculated,high,back_calculated | raw=681.8 snapped=680
+Loyalty,09/12/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,3.0,1000.0,3000.0,3390.0,173.81,Door (General) Install,1,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Loyalty,20/12/2021,0,1,0,0,0,1,0,0,1,0,4 * 8,,Remove and Replace,Door (General),Operator/Opener,0,0,1.0,1000.0,1000.0,1130.0,183.0,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,03/10/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1000.0,1000.0,1130.0,183.0,Door (General) Install,1,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Loyalty,09/03/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,1000.0,1000.0,1130.0,186.46,Door (General) Install,1,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Loyalty,20/06/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,6.0,1000.0,6000.0,6780.0,219.08,Door (General) Install,2,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Recurring,19/10/2024,0,0,0,0,0,0,0,0,0,0,,,Install,High Speed Door,,0,1,1.0,1000.0,1000.0,1130.0,231.4,High Speed Door Install,2,,,,,,,,150.0,back_calculated,high,back_calculated | raw=151.5 snapped=150
+Loyalty,29/04/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,1000.0,1000.0,1130.0,264.0,Door (General) Install,2,,,,,,,,225.0,back_calculated,high,back_calculated | raw=227.3 snapped=225
+Loyalty,27/02/2023,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,,0,1,17.0,16698.0,16698.0,18868.74,51.68,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=3795.0 snapped=64
+Recurring,29/04/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,975.0,975.0,1101.75,80.81,Door (General) Install,0,,,,,,,,160.0,back_calculated,high,back_calculated | raw=161.2 snapped=160
+Loyalty,24/07/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,950.0,1900.0,2147.0,27.56,Door (General) Install,0,,,,,,,,215.0,back_calculated,high,back_calculated | raw=215.9 snapped=215
+Loyalty,07/09/2025,0,0,0,0,0,1,0,0,0,0,,,Labor,High Speed Door,,0,0,1.0,950.0,950.0,1073.5,108.2,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,20/03/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,950.0,1900.0,2147.0,110.0,Door (General) Install,1,,,,,,,,215.0,back_calculated,high,back_calculated | raw=215.9 snapped=215
+Loyalty,03/10/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,950.0,950.0,1073.5,182.26,Door (General) Install,1,,,,,,,,215.0,back_calculated,high,back_calculated | raw=215.9 snapped=215
+Loyalty,22/04/2023,0,0,0,0,0,1,0,0,1,0,14 * 12,,Install,Door (General),Operator/Opener,0,1,2.0,850.0,1700.0,1921.0,27.16,Door (General) Install,0,,,,,,,,195.0,back_calculated,high,back_calculated | raw=193.2 snapped=195
+Recurring,27/09/2024,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,11.0,10010.0,10010.0,11311.3,471.62,Door (General) Install,4,,,,,,,,1655.0,back_calculated,high,back_calculated | raw=1654.5 snapped=1655
+Loyalty,17/05/2022,1,0,0,0,0,1,0,0,1,0,,,Replace,Door (General),,0,0,1.0,900.0,900.0,1017.0,17.9,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,05/03/2026,0,0,0,0,0,1,0,0,1,0,,,Repair,Door (General),,0,0,2.0,1800.0,1800.0,2034.0,50.67,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,05/03/2026,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,2.0,1800.0,1800.0,2034.0,156.01,Door (General) Install,1,,,,,,,,300.0,back_calculated,high,back_calculated | raw=297.5 snapped=300
+Loyalty,09/12/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,900.0,900.0,1017.0,173.81,Door (General) Install,1,,,,,,,,205.0,back_calculated,high,back_calculated | raw=204.5 snapped=205
+Loyalty,09/12/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,900.0,1800.0,2034.0,173.81,Door (General) Install,1,,,,,,,,205.0,back_calculated,high,back_calculated | raw=204.5 snapped=205
+Recurring,14/11/2020,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,3.0,2700.0,2700.0,3051.0,212.0,Door (General) Install,2,,,,,,,,445.0,back_calculated,high,back_calculated | raw=446.3 snapped=445
+Loyalty,02/08/2021,0,0,0,0,0,1,0,0,0,0,10*16,,Install,High Speed Door,,0,1,1.0,1000.0,1000.0,1130.0,28.0,High Speed Door Install,0,,,,,,,,210.0,back_calculated,high,back_calculated | raw=208.3 snapped=210
+Recurring,24/05/2021,0,0,0,0,0,0,0,0,1,0,8 * 7,,Supply & Install,Door (General),,0,0,1.0,880.0,880.0,994.4,244.0,Door (General) Supply & Install,2,,,,,,,,145.0,back_calculated,high,back_calculated | raw=145.5 snapped=145
+Loyalty,06/11/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,1750.0,1750.0,1977.5,9.0,Door (General) Install,0,,,,,,,,400.0,back_calculated,high,back_calculated | raw=397.7 snapped=400
+Loyalty,14/12/2020,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,,0,1,2.0,1750.0,1750.0,1977.5,184.0,Fire Door Install,1,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=397.7 snapped=64
+Loyalty,19/08/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,5.0,875.0,4375.0,4943.75,187.45,Door (General) Install,1,,,,,,,,200.0,back_calculated,high,back_calculated | raw=198.9 snapped=200
+Loyalty,25/10/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,8.0,867.5,6940.0,7842.2,130.11,Door (General) Install,1,,,,,,,,195.0,back_calculated,high,back_calculated | raw=197.2 snapped=195
+Loyalty,21/10/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,12.0,10300.0,10300.0,11639.0,138.61,Door (General) Install,1,,,,,,,,2340.0,back_calculated,high,back_calculated | raw=2340.9 snapped=2340
+Loyalty,25/02/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,4.0,850.0,3400.0,3842.0,173.08,Door (General) Install,1,,,,,,,,195.0,back_calculated,high,back_calculated | raw=193.2 snapped=195
+Recurring,24/10/2020,0,0,0,0,0,0,0,0,1,0,8 * 7,,Other/Misc,Door (General),,0,0,1.0,850.0,850.0,960.5,231.4,,2,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,25/07/2024,0,0,0,0,0,1,0,0,1,0,10 * 10,,Repair,Door (General),,0,0,2.0,837.5,1675.0,1892.75,38.13,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,26/02/2022,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,,0,1,12.0,10000.0,10000.0,11300.0,17.9,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=2272.7 snapped=64
+Loyalty,01/02/2023,0,0,0,0,0,1,0,0,0,0,,,Install,High Speed Door,,0,1,11.0,800.0,8800.0,9944.0,16.96,High Speed Door Install,0,,,,,,,,165.0,back_calculated,high,back_calculated | raw=166.7 snapped=165
+Recurring,15/05/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,3.0,2400.0,2400.0,2712.0,33.51,Door (General) Install,0,,,,,,,,395.0,back_calculated,high,back_calculated | raw=396.7 snapped=395
+Recurring,21/03/2026,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,1.0,800.0,800.0,904.0,36.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,05/01/2024,0,0,0,0,0,0,0,0,1,0,12 * 10 & 10 * 10,,Install,Door (General),,0,1,2.0,1600.0,1600.0,1808.0,41.98,Door (General) Install,0,,,,,,,,265.0,back_calculated,high,back_calculated | raw=264.5 snapped=265
+Loyalty,24/03/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Bumper,0,1,1.0,800.0,800.0,904.0,44.47,Door (General) Install,0,,,,,,,,180.0,back_calculated,high,back_calculated | raw=181.8 snapped=180
+Recurring,15/03/2021,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,1.0,800.0,800.0,904.0,82.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,02/12/2021,0,1,0,0,0,0,0,0,1,0,10 * 2,,Remove and Replace,Door (General),,0,0,1.0,800.0,800.0,904.0,92.35,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,06/06/2025,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,,0,1,1.0,800.0,800.0,904.0,102.0,Fire Door Install,1,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=181.8 snapped=64
+Loyalty,14/12/2020,0,1,0,0,0,1,0,0,1,0,,,Remove and Replace,Door (General),,0,0,3.0,800.0,2400.0,2712.0,108.98,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,30/06/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,800.0,800.0,904.0,117.03,Door (General) Install,1,,,,,,,,180.0,back_calculated,high,back_calculated | raw=181.8 snapped=180
+Recurring,26/07/2022,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,1.0,800.0,800.0,904.0,211.68,,2,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,26/07/2022,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,1.0,800.0,800.0,904.0,219.08,Fire Door Install,2,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=181.8 snapped=64
+Loyalty,04/05/2021,0,1,0,0,0,1,0,0,1,0,,,Remove and Replace,Door (General),Operator/Opener,0,0,2.0,1600.0,1600.0,1808.0,558.22,,5,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,10/06/2021,0,0,0,0,0,0,0,0,1,0,12 *12,,Install,Door (General),Operator/Opener,0,1,1.0,1200.0,1200.0,1356.0,24.37,Door (General) Install,0,,,,,,,,200.0,back_calculated,high,back_calculated | raw=198.3 snapped=200
+Recurring,18/09/2025,0,0,0,0,0,0,0,0,1,0,12 *12,,Install,Door (General),Operator/Opener,0,1,1.0,1500.0,1500.0,1695.0,32.0,Door (General) Install,0,,,,,,,,250.0,back_calculated,high,back_calculated | raw=247.9 snapped=250
+Loyalty,24/05/2021,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,,0,1,5.0,3844.8,3844.8,4344.624,147.13,Fire Door Install,1,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=873.8 snapped=64
+Recurring,02/02/2026,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,3.0,750.0,2250.0,2542.5,12.6,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,02/02/2026,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,3.0,750.0,2250.0,2542.5,36.6,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,05/01/2024,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,3.0,2250.0,2250.0,2542.5,45.6,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,02/02/2026,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,2.0,750.0,1500.0,1695.0,48.99,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,24/07/2023,0,0,0,0,0,0,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,1.0,1000.0,1000.0,1130.0,55.85,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=165.3 snapped=64
+Recurring,15/05/2023,0,0,0,0,0,0,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,1.0,1000.0,1000.0,1130.0,67.75,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=165.3 snapped=64
+Recurring,26/02/2022,0,0,0,0,0,0,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,1.0,1000.0,1000.0,1130.0,88.11,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=165.3 snapped=64
+Loyalty,05/02/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,750.0,750.0,847.5,132.0,Door (General) Install,1,,,,,,,,170.0,back_calculated,high,back_calculated | raw=170.5 snapped=170
+New,05/11/2024,0,1,0,0,0,0,0,0,1,0,,,Remove,Door (General),,0,0,1.0,750.0,750.0,847.5,212.53,,2,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,06/06/2025,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,1.0,1000.0,1000.0,1130.0,284.75,Fire Door Install,2,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=227.3 snapped=64
+Recurring,31/08/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,2.0,1450.0,1450.0,1638.5,55.09,Door (General) Install,0,,,,,,,,240.0,back_calculated,high,back_calculated | raw=239.7 snapped=240
+Recurring,05/02/2025,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,5.0,3600.0,3600.0,4068.0,46.88,Door (General) Install,0,,,,,,,,595.0,back_calculated,high,back_calculated | raw=595.0 snapped=595
+Recurring,30/01/2024,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,5.0,700.0,3500.0,3955.0,15.01,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,02/09/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,7.0,700.0,4900.0,5537.0,21.0,Door (General) Install,0,,,,,,,,115.0,back_calculated,high,back_calculated | raw=115.7 snapped=115
+New,15/05/2023,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,1.0,700.0,700.0,791.0,22.96,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,26/11/2022,0,0,0,0,0,0,0,0,0,0,,,Install,Fire Door,,0,1,2.0,1400.0,1400.0,1582.0,45.1,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=231.4 snapped=64
+Recurring,02/02/2026,0,1,0,0,0,0,0,0,1,0,,,Remove,Door (General),,0,0,1.0,700.0,700.0,791.0,46.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,20/12/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,700.0,1400.0,1582.0,51.62,Door (General) Install,0,,,,,,,,160.0,back_calculated,high,back_calculated | raw=159.1 snapped=160
+Loyalty,01/02/2023,0,0,0,0,0,1,0,0,0,0,,,Install,Traffic/Crash Door,,0,1,14.0,700.0,9800.0,11074.0,53.39,Traffic/Crash Door Install,0,,,,,,,,160.0,back_calculated,high,back_calculated | raw=159.1 snapped=160
+Loyalty,17/05/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,8.0,700.0,5600.0,6328.0,61.33,Door (General) Install,0,,,,,,,,160.0,back_calculated,high,back_calculated | raw=159.1 snapped=160
+Loyalty,10/12/2025,1,0,0,0,0,1,0,0,1,0,,,Replace,Door (General),,0,0,1.0,700.0,700.0,791.0,72.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,03/05/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,3.0,700.0,2100.0,2373.0,114.73,Door (General) Install,1,,,,,,,,115.0,back_calculated,high,back_calculated | raw=115.7 snapped=115
+Recurring,20/07/2021,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,2.0,700.0,1400.0,1582.0,123.17,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,21/07/2021,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,1.0,700.0,700.0,791.0,127.12,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,03/10/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,700.0,700.0,791.0,184.54,Door (General) Install,1,,,,,,,,160.0,back_calculated,high,back_calculated | raw=159.1 snapped=160
+Recurring,20/12/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,695.0,695.0,785.35,417.21,Door (General) Install,4,,,,,,,,115.0,back_calculated,high,back_calculated | raw=114.9 snapped=115
+Loyalty,21/03/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,19.0,12800.0,12800.0,14464.0,34.23,Door (General) Install,0,,,,,,,,2910.0,back_calculated,high,back_calculated | raw=2909.1 snapped=2910
+Loyalty,28/02/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,19.0,12800.0,12800.0,14464.0,78.08,Door (General) Install,0,,,,,,,,2910.0,back_calculated,high,back_calculated | raw=2909.1 snapped=2910
+Loyalty,31/07/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,22.0,14750.0,14750.0,16667.5,462.0,Door (General) Install,4,,,,,,,,3350.0,back_calculated,high,back_calculated | raw=3352.3 snapped=3350
+Loyalty,28/03/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,3.0,2000.0,2000.0,2260.0,44.47,Door (General) Install,0,,,,,,,,455.0,back_calculated,high,back_calculated | raw=454.5 snapped=455
+Recurring,11/09/2025,0,0,0,0,0,0,0,0,1,0,12 * 10,,Supply & Install,Door (General),,0,0,1.0,5350.0,5350.0,6045.5,32.26,Door (General) Supply & Install,0,,,,,,,,885.0,back_calculated,high,back_calculated | raw=884.3 snapped=885
+Recurring,15/05/2023,0,0,0,0,0,0,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,2.0,900.0,1800.0,2034.0,21.49,Fire Door Install,0,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=148.8 snapped=64
+Recurring,20/09/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,2.0,1300.0,1300.0,1469.0,31.17,Door (General) Install,0,,,,,,,,215.0,back_calculated,high,back_calculated | raw=214.9 snapped=215
+Recurring,08/07/2021,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,1.0,650.0,650.0,734.5,54.67,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,29/01/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,650.0,1300.0,1469.0,146.41,Door (General) Install,1,,,,,,,,150.0,back_calculated,high,back_calculated | raw=147.7 snapped=150
+Loyalty,14/04/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,11.0,7000.0,7000.0,7910.0,59.41,Door (General) Install,0,,,,,,,,1590.0,back_calculated,high,back_calculated | raw=1590.9 snapped=1590
+Loyalty,04/05/2021,0,0,0,0,0,1,0,0,0,0,,,Install,Fire Door,,0,1,14.0,8850.0,8850.0,10000.5,558.22,Fire Door Install,5,,,,,,8.0,8.0,64.0,back_calculated,medium,back_calculated | raw=2011.4 snapped=64
+Recurring,30/06/2022,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,2.0,1250.0,1250.0,1412.5,45.08,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,28/02/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,6.0,3680.0,3680.0,4158.4,165.34,Door (General) Install,1,,,,,,,,835.0,back_calculated,high,back_calculated | raw=836.4 snapped=835
+Loyalty,05/02/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,3.0,613.0,1839.0,2078.07,112.26,Door (General) Install,1,,,,,,,,140.0,back_calculated,high,back_calculated | raw=139.3 snapped=140
+Recurring,14/11/2020,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,55.0,33150.0,33150.0,37459.5,63.0,Door (General) Install,0,,,,,,,,5480.0,back_calculated,high,back_calculated | raw=5479.3 snapped=5480
+Loyalty,01/02/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,600.0,1200.0,1356.0,16.96,Door (General) Install,0,,,,,,,,135.0,back_calculated,high,back_calculated | raw=136.4 snapped=135
+Recurring,10/06/2021,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,1.0,600.0,600.0,678.0,43.45,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,10/06/2021,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,1.0,600.0,600.0,678.0,43.45,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,21/03/2026,0,0,0,0,0,1,0,0,0,0,,,Install,Traffic/Crash Door,,0,1,3.0,600.0,1800.0,2034.0,50.62,Traffic/Crash Door Install,0,,,,,,,,135.0,back_calculated,high,back_calculated | raw=136.4 snapped=135
+Recurring,24/10/2020,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,1.0,600.0,600.0,678.0,60.05,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,15/05/2023,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,1.0,600.0,600.0,678.0,68.4,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,19/08/2023,1,0,0,0,0,1,0,0,1,0,,,Replace,Door (General),Operator/Opener,0,0,1.0,600.0,600.0,678.0,110.0,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,21/03/2026,0,0,0,0,0,1,0,0,0,0,,,Install,Traffic/Crash Door,,0,1,3.0,600.0,1800.0,2034.0,156.01,Traffic/Crash Door Install,1,,,,,,,,135.0,back_calculated,high,back_calculated | raw=136.4 snapped=135
+Loyalty,21/03/2026,0,0,0,0,0,1,0,0,0,0,,,Install,Traffic/Crash Door,,0,1,4.0,600.0,2400.0,2712.0,157.0,Traffic/Crash Door Install,1,,,,,,,,135.0,back_calculated,high,back_calculated | raw=136.4 snapped=135
+Loyalty,09/12/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,600.0,1200.0,1356.0,173.81,Door (General) Install,1,,,,,,,,135.0,back_calculated,high,back_calculated | raw=136.4 snapped=135
+Recurring,10/01/2026,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,6.0,600.0,3600.0,4068.0,211.68,Door (General) Install,2,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,19/12/2023,0,0,0,0,0,1,0,0,1,0,9 * 10,,Install,Door (General),,0,1,26.0,14800.0,14800.0,16724.0,108.4,Door (General) Install,1,,,,,,,,3365.0,back_calculated,high,back_calculated | raw=3363.6 snapped=3365
+Recurring,19/01/2024,0,0,0,0,0,0,0,0,1,0,10 * 10,,Install,Door (General),Operator/Opener,0,1,1.0,1200.0,1200.0,1356.0,22.72,Door (General) Install,0,,,,,,,,200.0,back_calculated,high,back_calculated | raw=198.3 snapped=200
+Loyalty,17/05/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,550.0,550.0,621.5,61.33,Door (General) Install,0,,,,,,,,125.0,back_calculated,high,back_calculated | raw=125.0 snapped=125
+Loyalty,27/02/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,2.0,1100.0,1100.0,1243.0,136.29,Door (General) Install,1,,,,,,,,250.0,back_calculated,high,back_calculated | raw=250.0 snapped=250
+Recurring,13/02/2026,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,33.0,550.0,18150.0,20509.5,138.61,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,16/10/2025,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,4.0,2200.0,2200.0,2486.0,141.1,Door (General) Install,1,,,,,,,,365.0,back_calculated,high,back_calculated | raw=363.6 snapped=365
+Loyalty,05/02/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,23.0,550.0,12650.0,14294.5,558.22,Door (General) Install,5,,,,,,,,125.0,back_calculated,high,back_calculated | raw=125.0 snapped=125
+Recurring,13/06/2023,0,0,0,0,0,0,0,0,1,0,10 * 10,,Repair,Door (General),,0,0,1.0,516.0,516.0,583.08,349.43,,3,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,30/11/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,11.0,500.0,5500.0,6215.0,22.0,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+New,20/03/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,500.0,500.0,565.0,34.03,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+New,14/04/2023,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,1.0,500.0,500.0,565.0,35.02,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,16/10/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,12.0,500.0,6000.0,6780.0,44.0,Door (General) Install,0,,,,,,,,115.0,back_calculated,high,back_calculated | raw=113.6 snapped=115
+Loyalty,03/02/2025,0,0,0,0,0,1,0,0,1,0,,,Repair,Door (General),,0,0,1.0,500.0,500.0,565.0,45.73,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,18/05/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,500.0,1000.0,1130.0,50.65,Door (General) Install,0,,,,,,,,115.0,back_calculated,high,back_calculated | raw=113.6 snapped=115
+Loyalty,20/03/2025,0,1,0,0,0,1,0,0,1,0,,,Remove,Door (General),,0,0,2.0,500.0,1000.0,1130.0,78.08,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,03/03/2025,1,0,0,0,0,1,0,0,1,0,,,Replace,Door (General),,0,0,1.0,500.0,500.0,565.0,78.6,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,03/03/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,10.0,500.0,5000.0,5650.0,83.18,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,21/03/2026,0,0,0,0,0,1,0,0,0,0,,,Install,Traffic/Crash Door,,0,1,2.0,500.0,1000.0,1130.0,156.01,Traffic/Crash Door Install,1,,,,,,,,115.0,back_calculated,high,back_calculated | raw=113.6 snapped=115
+Loyalty,21/03/2026,0,0,0,0,0,1,0,0,0,0,,,Install,Traffic/Crash Door,,0,1,2.0,500.0,1000.0,1130.0,156.1,Traffic/Crash Door Install,1,,,,,,,,115.0,back_calculated,high,back_calculated | raw=113.6 snapped=115
+Loyalty,16/08/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,78.0,38850.0,38850.0,43900.5,51.84,Door (General) Install,0,,,,,,,,8830.0,back_calculated,high,back_calculated | raw=8829.5 snapped=8830
+Recurring,24/07/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,7.0,3256.0,3256.0,3679.28,82.39,Door (General) Install,0,,,,,,,,540.0,back_calculated,high,back_calculated | raw=538.2 snapped=540
+Recurring,14/12/2020,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,1.0,450.0,450.0,508.5,34.03,,0,,,,,,,,,standard_default,low,no_size_applicable
+New,06/12/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,1.0,450.0,450.0,508.5,40.78,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,14/07/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,120.0,54000.0,54000.0,61020.0,234.0,Door (General) Install,2,,,,,,,,12275.0,back_calculated,high,back_calculated | raw=12272.7 snapped=12275
+Loyalty,29/12/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,60.0,24215.0,24215.0,27362.95,200.0,Door (General) Install,1,,,,,,,,5505.0,back_calculated,high,back_calculated | raw=5503.4 snapped=5505
+Recurring,27/11/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,2.0,800.0,800.0,904.0,18.57,Door (General) Install,0,,,,,,,,130.0,back_calculated,high,back_calculated | raw=132.2 snapped=130
+Recurring,22/11/2024,0,0,0,0,0,0,0,0,1,0,,,Service Call,Door (General),,0,0,1.0,400.0,400.0,452.0,33.6,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,23/04/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,1.0,400.0,400.0,452.0,34.03,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,15/05/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,4.0,400.0,1600.0,1808.0,51.46,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,29/04/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.0,400.0,800.0,904.0,51.62,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,14/05/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,6.0,400.0,2400.0,2712.0,67.23,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,20/03/2023,0,0,0,0,0,0,0,0,0,0,,,Install,Fire Door,Drop Test,0,1,10.0,650.0,6500.0,7345.0,68.83,Fire Door Install,0,,,,,,3.0,7.0,21.0,standard_default,low,standard_size_default
+Loyalty,29/05/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,42.0,400.0,16800.0,18984.0,71.44,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,29/03/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,40.0,16000.0,16000.0,18080.0,78.6,Door (General) Install,0,,,,,,,,3635.0,back_calculated,high,back_calculated | raw=3636.4 snapped=3635
+Recurring,17/05/2022,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,3.0,400.0,1200.0,1356.0,91.99,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,23/04/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,5.0,2000.0,2000.0,2260.0,117.03,Door (General) Install,1,,,,,,,,455.0,back_calculated,high,back_calculated | raw=454.5 snapped=455
+Loyalty,25/04/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,60.0,400.0,24000.0,27120.0,125.04,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,21/03/2026,0,0,0,0,0,1,0,0,0,0,,,Install,Traffic/Crash Door,,0,1,4.0,400.0,1600.0,1808.0,156.01,Traffic/Crash Door Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,29/09/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,60.0,400.0,24000.0,27120.0,173.81,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,06/10/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,20.0,400.0,8000.0,9040.0,173.81,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,10/10/2025,0,1,0,0,0,1,0,0,0,0,,,Remove and Replace,High Speed Door,,0,0,4.0,1600.0,1600.0,1808.0,310.83,,3,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,09/11/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,18.0,7175.0,7175.0,8107.75,55.65,Door (General) Install,0,,,,,,,,1630.0,back_calculated,high,back_calculated | raw=1630.7 snapped=1630
+Loyalty,09/11/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,22.0,8675.0,8675.0,9802.75,55.65,Door (General) Install,0,,,,,,,,1970.0,back_calculated,high,back_calculated | raw=1971.6 snapped=1970
+Recurring,03/02/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),,0,1,23.0,8400.0,8400.0,9492.0,163.07,Door (General) Install,1,,,,,,,,1390.0,back_calculated,high,back_calculated | raw=1388.4 snapped=1390
+Loyalty,06/12/2022,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,49.0,17350.0,17350.0,19605.5,17.0,Door (General) Install,0,,,,,,,,3945.0,back_calculated,high,back_calculated | raw=3943.2 snapped=3945
+Loyalty,24/07/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,25.0,350.0,8750.0,9887.5,27.56,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,26/11/2022,1,0,0,0,0,1,0,0,0,0,,,Replace,,Operator/Opener,0,0,2.0,350.0,700.0,791.0,59.08,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,20/03/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,21.0,350.0,7350.0,8305.5,110.0,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,28/03/2023,0,0,0,0,0,1,0,0,0,0,,,Install,Traffic/Crash Door,,0,1,4.0,350.0,1400.0,1582.0,116.78,Traffic/Crash Door Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,03/05/2021,0,0,0,0,0,1,0,0,1,0,,,Repair,Door (General),Operator/Opener,0,0,3.0,1000.0,1000.0,1130.0,203.06,,2,,,,,,,,,standard_default,low,no_size_applicable
+New,19/10/2024,0,0,0,0,0,0,0,0,0,0,,,Install,Remote/Photo Eye,,0,1,2.0,320.0,640.0,723.2,154.86,Remote/Photo Eye Install,1,,,,,,,,145.0,back_calculated,high,back_calculated | raw=145.5 snapped=145
+Loyalty,27/02/2023,1,0,0,0,0,1,0,0,0,0,,,Replace,Other/Misc,,0,0,1.0,300.0,300.0,339.0,8.98,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,30/06/2022,0,0,0,0,0,1,0,0,0,0,,,Service Call,Other/Misc,,0,0,1.0,300.0,300.0,339.0,17.9,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,07/06/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,9.0,300.0,2700.0,3051.0,46.0,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,24/07/2023,0,0,0,0,0,0,0,0,0,0,,,Labor,,Extra Work,0,0,1.0,300.0,300.0,339.0,110.28,,1,,,,,,,,,standard_default,low,no_size_applicable
+New,31/12/2022,0,0,0,0,0,0,0,0,0,0,,,Other/Misc,Remote/Photo Eye,,0,0,1.0,255.0,255.0,288.15,281.96,,2,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,28/03/2023,0,1,0,0,0,1,0,0,1,0,,,Remove,Door (General),,0,0,3.0,250.0,750.0,847.5,44.47,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,02/09/2021,0,1,0,0,0,0,0,0,1,0,,,Remove and Replace,Door (General),,0,0,3.0,200.0,600.0,678.0,20.55,,0,,,,,,,,,standard_default,low,no_size_applicable
+New,12/01/2023,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,10.0,200.0,2000.0,2260.0,34.42,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+New,08/07/2021,0,0,0,0,0,0,0,0,1,0,,,Other/Misc,Door (General),,0,0,1.0,200.0,200.0,226.0,47.07,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,06/12/2024,0,0,0,0,0,0,0,0,1,0,,,Service Call,Door (General),,0,0,1.0,200.0,200.0,226.0,54.2,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,13/09/2021,0,0,0,0,0,1,0,0,1,0,,,Service Call,Door (General),,0,0,1.0,200.0,200.0,226.0,173.81,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,14/05/2021,0,0,0,0,0,0,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,5.0,180.0,900.0,1017.0,17.58,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,26/02/2022,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,11.0,1800.0,1800.0,2034.0,34.03,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,29/05/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),Operator/Opener,0,1,102.0,150.0,15300.0,17289.0,71.44,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,22/11/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,150.0,150.0,169.5,122.89,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+New,31/12/2022,0,0,0,0,0,0,0,0,0,0,,,Install,Remote/Photo Eye,,0,1,2.0,295.0,295.0,333.35,305.97,Remote/Photo Eye Install,3,,,,,,,,135.0,back_calculated,high,back_calculated | raw=134.1 snapped=135
+New,31/12/2022,0,0,0,0,0,0,0,0,0,0,,,Install,Remote/Photo Eye,,0,1,2.0,295.0,295.0,333.35,305.97,Remote/Photo Eye Install,3,,,,,,,,135.0,back_calculated,high,back_calculated | raw=134.1 snapped=135
+New,31/12/2022,0,0,0,0,0,0,0,0,0,0,,,Install,Remote/Photo Eye,,0,1,2.0,295.0,295.0,333.35,305.97,Remote/Photo Eye Install,3,,,,,,,,135.0,back_calculated,high,back_calculated | raw=134.1 snapped=135
+New,02/02/2026,0,0,0,0,0,0,0,0,0,0,,,Install,Remote/Photo Eye,,0,1,1.0,140.0,140.0,158.2,90.0,Remote/Photo Eye Install,0,,,,,,,,65.0,back_calculated,high,back_calculated | raw=63.6 snapped=65
+Recurring,02/04/2025,1,0,0,0,0,0,0,0,1,0,,,Replace,Door (General),,0,0,5.0,120.0,600.0,678.0,64.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+New,06/03/2025,0,0,0,0,0,0,0,0,0,0,,,Install,Remote/Photo Eye,,0,1,1.0,108.0,108.0,122.04,55.09,Remote/Photo Eye Install,0,,,,,,,,50.0,back_calculated,high,back_calculated | raw=49.1 snapped=50
+Recurring,26/03/2022,0,1,0,0,0,0,0,0,1,0,,,Remove,Door (General),,0,0,6.0,100.0,600.0,678.0,49.68,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,17/08/2021,0,0,0,0,0,0,0,0,1,0,,,Repair,Door (General),,0,0,6.5,100.0,650.0,734.5,50.78,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,26/07/2022,0,0,0,0,0,1,0,0,0,0,,,Service Call,Other/Misc,,0,0,3.5,100.0,350.0,395.5,52.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,03/11/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.5,100.0,250.0,282.5,54.77,Door (General) Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,22/11/2024,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,8.0,100.0,800.0,904.0,103.55,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,15/01/2022,0,0,0,0,0,0,0,0,0,0,,,Labor,,Extra Work,0,0,2.0,100.0,200.0,226.0,107.54,,1,,,,,,,,,standard_default,low,no_size_applicable
+New,26/07/2022,0,0,0,0,0,0,0,0,0,0,,,Other/Misc,Other/Misc,,0,0,1.0,100.0,100.0,113.0,108.0,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,25/01/2022,0,0,0,0,0,1,0,0,1,0,,,Service Call,Door (General),,0,0,3.0,100.0,300.0,339.0,112.26,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,03/11/2022,0,0,0,0,0,1,0,0,0,0,,,labor,,Extra Work,0,0,6.75,100.0,675.0,762.75,116.78,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,14/04/2023,0,0,0,0,0,1,0,0,1,0,,,Service Call,Door (General),,0,0,7.0,100.0,700.0,791.0,116.78,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,26/07/2022,0,0,0,0,0,1,0,0,0,0,,,Service Call,Other/Misc,,0,0,6.0,100.0,600.0,678.0,145.54,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,18/08/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,13.5,100.0,1350.0,1525.5,147.13,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,20/07/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,7.0,100.0,700.0,791.0,173.81,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,08/11/2021,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,2.5,100.0,250.0,282.5,219.08,Door (General) Install,2,,,,,,,,,standard_default,low,no_size_applicable
+New,26/07/2022,0,0,0,0,0,0,0,0,0,0,,,Other/Misc,Other/Misc,,0,0,1.0,100.0,100.0,113.0,313.04,,3,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,04/05/2021,0,0,0,0,0,1,0,0,0,0,,,Other/Misc,Other/Misc,,0,0,5.0,100.0,500.0,565.0,558.22,,5,,,,,,,,,standard_default,low,no_size_applicable
+New,15/03/2021,0,0,0,0,0,0,0,0,1,0,,,Supply Only,Door (General),,0,0,1.0,80.0,80.0,90.4,211.68,,2,,,,,,,,,standard_default,low,no_size_applicable
+New,14/11/2020,0,0,0,0,0,0,0,0,0,0,,,Supply Only,Remote/Photo Eye,,0,0,1.0,60.0,60.0,67.8,286.95,,2,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,26/03/2022,0,0,0,0,0,0,0,0,0,0,,,Supply & Install,Remote/Photo Eye,,0,0,3.0,55.0,165.0,186.45,49.68,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,19/05/2022,0,0,0,0,0,0,0,0,0,0,,,Supply & Install,Remote/Photo Eye,,0,0,1.0,55.0,55.0,62.15,50.31,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,07/09/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,55.0,55.0,62.15,102.0,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,20/03/2023,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),,0,1,1.0,50.0,1150.0,1299.5,110.0,Door (General) Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,29/09/2021,0,0,0,0,0,1,0,0,0,0,,,Install,Other/Misc,,0,1,60.0,50.0,3000.0,3390.0,148.78,Other/Misc Install,1,,,,,,,,,standard_default,low,no_size_applicable
+New,25/10/2024,0,0,0,0,0,0,0,0,0,0,,,Install,Remote/Photo Eye,,0,1,2.0,45.0,90.0,101.7,35.27,Remote/Photo Eye Install,0,,,,,,,,20.0,back_calculated,high,back_calculated | raw=20.5 snapped=20
+Loyalty,15/01/2022,0,1,0,0,0,1,0,0,0,0,,,Remove and Replace,,Operator/Opener,0,0,1.0,400.0,400.0,452.0,7.31,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,15/05/2023,0,0,0,0,0,1,0,0,0,1,,,Install,Hardware/Parts,,0,1,3.0,1000.0,3000.0,3390.0,8.98,Hardware/Parts Install,0,,,,,,,,625.0,back_calculated,high,back_calculated | raw=625.0 snapped=625
+Recurring,26/07/2022,0,1,0,0,0,0,0,0,0,0,,,Remove and Replace,,Dock Seal,0,0,1.0,1400.0,1400.0,1582.0,12.26,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,29/01/2024,0,1,0,0,0,0,0,0,0,0,,,Remove,,Dock Seal,0,0,5.0,150.0,750.0,847.5,15.01,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,29/01/2024,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,5.0,350.0,1750.0,1977.5,15.01, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,01/02/2023,0,0,0,0,0,1,0,0,0,1,,,Repair,Hardware/Parts,,0,0,1.0,500.0,500.0,565.0,16.96,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,06/12/2022,0,0,0,0,0,1,0,0,0,1,,,Install,Hardware/Parts,,0,1,1.0,107.14,107.14,121.0682,17.0,Hardware/Parts Install,0,,,,,,,,65.0,back_calculated,high,back_calculated | raw=67.0 snapped=65
+Loyalty,06/12/2022,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,550.0,550.0,621.5,17.09,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,01/03/2022,0,0,0,0,0,1,0,0,0,1,,,Install,Hardware/Parts,,0,1,1.0,500.0,500.0,565.0,17.69,Hardware/Parts Install,0,,,,,,,,310.0,back_calculated,high,back_calculated | raw=312.5 snapped=310
+Loyalty,19/12/2023,0,0,0,0,0,1,0,0,0,1,,,Supply & Install,Hardware/Parts,,0,0,1.0,500.0,500.0,565.0,21.98,Hardware/Parts Supply & Install,0,,,,,,,,310.0,back_calculated,high,back_calculated | raw=312.5 snapped=310
+New,15/05/2023,0,0,0,0,0,0,0,0,0,1,,,Install,Hardware/Parts,,0,1,3.0,1055.0,1055.0,1192.15,22.96,Hardware/Parts Install,0,,,,,,,,480.0,back_calculated,high,back_calculated | raw=479.5 snapped=480
+Loyalty,19/08/2023,0,0,0,0,0,1,0,0,0,0,,,Install,,Bumper,0,1,1.0,250.0,250.0,282.5,24.4, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,06/10/2021,0,0,0,0,0,1,0,0,0,1,,,Install,Hardware/Parts,,0,1,1.0,50.0,1000.0,1130.0,28.0,Hardware/Parts Install,0,,,,,,,,30.0,back_calculated,high,back_calculated | raw=31.2 snapped=30
+Recurring,07/08/2024,0,1,0,0,0,0,0,0,0,0,,,Remove and Replace,,shelters,0,0,1.0,1100.0,1100.0,1243.0,31.52,,0,,,,,,,,,standard_default,low,no_size_applicable
+New,15/08/2024,0,0,0,0,0,0,0,0,0,1,,,Install,Hardware/Parts,,0,1,6.0,100.0,600.0,678.0,31.52,Hardware/Parts Install,0,,,,,,,,45.0,back_calculated,high,back_calculated | raw=45.5 snapped=45
+Recurring,18/05/2022,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,1.0,750.0,750.0,847.5,39.86, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+New,06/12/2022,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,1.0,46.0,46.0,51.980000000000004,40.54, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+New,06/12/2022,0,0,0,0,0,0,0,0,0,1,,,install,Hardware/Parts,,0,1,16.0,14.0,224.0,253.12,40.54,Hardware/Parts install,0,,,,,,,,,standard_default,low,no_size_applicable
+New,06/12/2022,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,1.0,54.0,378.0,427.14,40.54, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+New,06/12/2022,0,0,0,0,0,0,0,0,0,1,,,Install,Hardware/Parts,,0,1,2.0,572.0,1144.0,1292.72,40.54,Hardware/Parts Install,0,,,,,,,,260.0,back_calculated,high,back_calculated | raw=260.0 snapped=260
+New,06/12/2022,0,0,0,0,0,0,0,0,0,1,,,Install,Hardware/Parts,,0,1,2.0,33.0,66.0,74.58,40.78,Hardware/Parts Install,0,,,,,,,,15.0,back_calculated,high,back_calculated | raw=15.0 snapped=15
+New,06/12/2022,0,0,0,0,0,0,0,0,0,1,,,Install,Hardware/Parts,,0,1,8.0,32.0,256.0,289.28,40.78,Hardware/Parts Install,0,,,,,,,,15.0,back_calculated,high,back_calculated | raw=14.5 snapped=15
+Recurring,02/02/2026,0,1,0,0,0,0,0,0,0,0,,,Remove,,Dock Seal,0,0,1.0,800.0,800.0,904.0,47.29,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,03/11/2022,0,1,0,0,0,0,0,0,0,1,,,Remove and Replace,Hardware/Parts,,0,0,1.0,840.0,840.0,949.2,49.68,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,29/03/2024,1,0,0,0,0,0,0,0,0,1,,,Replace,Hardware/Parts,,0,0,1.0,420.0,420.0,474.6,49.68,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,05/02/2022,0,0,0,0,0,1,0,0,0,1,,,Repair,Hardware/Parts,,0,0,1.0,1000.0,1000.0,1130.0,51.46,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,08/04/2022,0,0,0,0,0,1,0,0,0,1,,,Supply & Install,Hardware/Parts,,0,0,1.0,1000.0,1000.0,1130.0,51.46,Hardware/Parts Supply & Install,0,,,,,,,,625.0,back_calculated,high,back_calculated | raw=625.0 snapped=625
+Loyalty,27/02/2023,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,2.0,1000.0,1000.0,1130.0,51.46,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,17/08/2021,0,0,0,0,0,1,0,0,0,0,,,Service Call,,Dock Seal,0,0,2.0,100.0,200.0,226.0,51.62,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,06/12/2024,0,0,0,0,0,0,0,0,0,0,,,Install,,Operator/Opener,0,1,1.0,55.0,55.0,62.15,51.62, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,27/02/2023,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,2.0,2000.0,2000.0,2260.0,51.68,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,01/02/2023,0,0,0,0,0,1,0,0,0,1,,,Install,Hardware/Parts,,0,1,1.0,360.0,360.0,406.8,52.62,Hardware/Parts Install,0,,,,,,,,225.0,back_calculated,high,back_calculated | raw=225.0 snapped=225
+Loyalty,28/03/2023,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,550.0,550.0,621.5,54.35,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,26/11/2022,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,550.0,550.0,621.5,54.49,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,02/12/2024,0,0,0,0,0,0,0,0,0,0,,,Supply Only,,Operator/Opener,0,0,2.0,1025.0,2050.0,2316.5,55.04,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,03/02/2025,0,1,0,0,0,0,0,0,0,0,,,Remove and Replace,,shelters,0,0,1.0,900.0,900.0,1017.0,55.04,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,09/11/2023,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,1000.0,1000.0,1130.0,55.65,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,14/12/2020,0,0,0,0,0,0,0,0,0,0,,,Install,,shelters,0,1,9.0,2250.0,2250.0,2542.5,56.0, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,22/10/2022,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,1500.0,1500.0,1695.0,59.08,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,25/11/2021,0,0,0,0,0,0,0,0,0,0,,,Supply & Install,,Dock Seal,0,0,1.0,600.0,600.0,678.0,63.0,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,29/07/2023,1,0,0,0,0,1,0,0,0,1,,,Replace,Hardware/Parts,,0,0,1.0,700.0,700.0,791.0,64.8,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,02/12/2021,0,1,0,0,0,0,0,0,0,0,,,Remove and Replace,,Dock Seal,0,0,12.0,300.0,3600.0,4068.0,68.31,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,05/02/2022,0,0,0,0,0,1,0,0,0,0,,,Install,,Operator/Opener,0,1,3.0,150.0,450.0,508.5,69.44, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,29/05/2024,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,2000.0,2000.0,2260.0,71.44,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,02/12/2021,0,1,0,0,0,0,0,0,0,0,,,Remove and Replace,,Bumper,0,0,12.0,100.0,1200.0,1356.0,71.72,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,17/05/2022,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,550.0,550.0,621.5,74.67,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,18/05/2022,0,0,0,0,0,1,0,0,0,0,,,install,,Dock Seal,0,1,1.0,750.0,750.0,847.5,74.93, install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,13/11/2025,0,0,0,0,0,1,0,0,0,0,,,Install,,Dock Seal,0,1,2.0,110.0,605.0,683.65,79.17, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,13/11/2025,0,0,0,0,0,1,0,0,0,1,,,Repair,Hardware/Parts,,0,0,2.0,110.0,220.0,248.6,79.4,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,12/10/2020,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,4.0,275.0,1100.0,1243.0,80.9, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,24/07/2023,0,0,0,0,0,0,0,0,0,1,2 * 2,,Labor,Hardware/Parts,,0,0,1.0,882.0,882.0,996.66,82.39,,0,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,26/07/2022,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,13.0,250.0,3250.0,3672.5,90.61, Install,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,17/05/2022,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,550.0,550.0,621.5,95.71,,0,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,28/03/2023,1,0,0,0,0,1,0,0,0,1,,,Replace,Hardware/Parts,,0,0,1.0,500.0,500.0,565.0,102.92,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,19/12/2023,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,1000.0,1000.0,1130.0,108.4,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,20/03/2023,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,1000.0,1000.0,1130.0,110.0,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,23/04/2022,0,0,0,0,0,1,0,0,0,0,,,Install,,Dock Seal,0,1,4.0,200.0,800.0,904.0,110.71, Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,22/04/2023,0,0,0,0,0,1,0,0,0,1,,,Install,Hardware/Parts,,0,1,1.0,200.0,200.0,226.0,112.19,Hardware/Parts Install,1,,,,,,,,125.0,back_calculated,high,back_calculated | raw=125.0 snapped=125
+Loyalty,24/07/2023,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,1000.0,1000.0,1130.0,116.78,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,29/07/2023,0,0,0,0,0,0,0,0,0,1,,,Other/Misc,Hardware/Parts,,0,0,9.0,42.0,378.0,427.14,117.4,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,02/09/2021,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,29.0,4350.0,4350.0,4915.5,117.83, Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,01/07/2025,1,0,0,0,0,1,0,0,0,1,,,Replace,Hardware/Parts,,0,0,1.0,500.0,500.0,565.0,126.0,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,02/09/2021,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,34.0,4590.0,4590.0,5186.7,127.5, Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,21/03/2026,0,0,0,0,0,0,0,0,0,1,,,Install,Hardware/Parts,,0,1,1.0,45.0,45.0,50.85,132.0,Hardware/Parts Install,1,,,,,,,,20.0,back_calculated,high,back_calculated | raw=20.5 snapped=20
+Recurring,21/03/2026,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,1.0,1400.0,1400.0,1582.0,132.4, Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,10/12/2025,0,0,0,0,0,1,0,0,1,0,,,Install,Door (General),shelters,0,1,9.0,18000.0,18000.0,20340.0,136.29,Door (General) Install,1,,,,,,,,4090.0,back_calculated,high,back_calculated | raw=4090.9 snapped=4090
+New,05/11/2024,0,0,0,0,0,0,0,0,0,0,,,Supply & Install,,Operator/Opener,0,0,1.0,1600.0,1600.0,1808.0,145.3,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,19/01/2024,0,0,0,0,0,0,0,0,0,0,,,Install,,Operator/Opener,0,1,10.0,1200.0,1200.0,1356.0,147.53, Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,14/06/2023,0,0,0,0,0,0,0,0,0,0,,,Supply & Install,,Operator/Opener,0,0,1.0,1070.0,1070.0,1209.1,152.76,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,04/08/2025,0,0,0,0,0,1,0,0,0,1,,,Install,Hardware/Parts,,0,1,1.0,1415.0,1415.0,1598.95,156.01,Hardware/Parts Install,1,,,,,,,,885.0,back_calculated,high,back_calculated | raw=884.4 snapped=885
+Recurring,29/03/2024,0,0,0,0,0,0,0,0,0,0,,,Install,,Operator/Opener,0,1,2.0,1000.0,2000.0,2260.0,160.0, Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,08/07/2021,0,0,0,0,0,0,0,0,0,0,,,Other/Misc,,Operator/Opener,0,0,1.0,1080.0,1080.0,1220.4,164.0,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,14/12/2020,0,0,0,0,0,0,0,0,0,0,,,Install,,Bumper,0,1,4.0,1400.0,1400.0,1582.0,185.77, Install,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,19/08/2023,0,0,0,0,0,1,0,0,0,1,,,Install,Hardware/Parts,,0,1,5.0,150.0,750.0,847.5,187.45,Hardware/Parts Install,1,,,,,,,,95.0,back_calculated,high,back_calculated | raw=93.8 snapped=95
+Loyalty,19/08/2023,0,0,0,0,0,1,0,0,0,1,,,Labor,Hardware/Parts,,0,0,31.0,42.0,1302.0,1471.26,187.45,,1,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,08/04/2022,0,1,0,0,0,1,0,0,0,1,,,Remove,Hardware/Parts,,0,0,3.0,100.0,300.0,339.0,195.9,,1,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,06/06/2025,0,0,0,0,0,0,0,0,0,1,,,Supply & Install,Hardware/Parts,,0,0,1.0,450.0,450.0,508.5,204.0,Hardware/Parts Supply & Install,2,,,,,,,,205.0,back_calculated,high,back_calculated | raw=204.5 snapped=205
+New,25/02/2021,0,0,0,0,0,0,0,0,0,1,,,Supply & Install,Hardware/Parts,,0,0,9.0,2680.0,2680.0,3028.4,210.0,Hardware/Parts Supply & Install,2,,,,,,,,1220.0,back_calculated,high,back_calculated | raw=1218.2 snapped=1220
+Recurring,12/01/2023,0,0,0,0,0,0,0,0,0,1,,,Install,Hardware/Parts,,0,1,1.0,910.0,910.0,1028.3,210.0,Hardware/Parts Install,2,,,,,,,,415.0,back_calculated,high,back_calculated | raw=413.6 snapped=415
+Recurring,12/01/2023,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,8.0,250.0,2000.0,2260.0,210.0, Install,2,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,27/05/2022,0,0,0,0,0,1,0,0,0,0,,,Rental,,Telehandler,0,0,1.0,550.0,550.0,621.5,219.08,,2,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,03/10/2022,1,0,0,0,0,1,0,0,0,1,,,Replace,Hardware/Parts,,0,0,1.0,300.0,300.0,339.0,219.08,,2,,,,,,,,,standard_default,low,no_size_applicable
+New,03/05/2021,0,0,0,0,0,0,0,0,0,1,,,Supply Only,Hardware/Parts,,0,0,1.0,185.0,185.0,209.05,225.15,,2,,,,,,,,,standard_default,low,no_size_applicable
+New,16/01/2021,0,0,0,0,0,0,0,0,0,1,,,Service Call,Hardware/Parts,,0,0,1.0,225.0,225.0,254.25,225.22,,2,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,31/12/2022,0,0,0,0,0,0,0,0,0,0,,,Supply Only,,Operator/Opener,0,0,1.0,875.0,875.0,988.75,231.4,,2,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,21/10/2025,0,0,0,0,0,0,0,0,0,0,,,Supply & Install,,Operator/Opener,0,0,2.0,2600.0,2600.0,2938.0,234.0,,2,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,19/12/2025,1,0,0,0,0,1,0,0,0,0,,,Replace,,Dock Seal,0,0,1.0,800.0,800.0,904.0,266.0,,2,,,,,,,,,standard_default,low,no_size_applicable
+New,06/01/2026,0,0,0,0,0,0,0,0,0,1,,,Supply Only,Hardware/Parts,,0,0,1.0,460.0,460.0,519.8,272.0,,2,,,,,,,,,standard_default,low,no_size_applicable
+New,26/07/2022,0,0,0,0,0,0,0,0,0,0,,,Supply Only,,Operator/Opener,0,0,2.0,674.0,1348.0,1523.24,313.04,,3,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,13/11/2025,0,0,0,0,0,1,0,0,0,0,,,Install,,Bumper,0,1,11.0,7600.0,7600.0,8588.0,316.0, Install,3,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,15/02/2024,0,0,0,0,0,1,0,0,0,1,,,Repair,Hardware/Parts,,0,0,1.0,700.0,700.0,791.0,318.19,,3,,,,,,,,,standard_default,low,no_size_applicable
+New,25/10/2024,0,0,0,0,0,0,0,0,0,0,,,Install,,Operator/Opener,0,1,1.0,1960.0,1960.0,2214.8,369.23, Install,3,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,19/06/2025,0,0,0,0,0,0,0,0,0,0,,,Supply & Install,,Operator/Opener,0,0,3.0,1250.0,3750.0,4237.5,402.0,,4,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,04/08/2025,0,0,0,0,0,0,0,0,0,0,,,Install,,Operator/Opener,0,1,1.0,625.0,625.0,706.25,404.0, Install,4,,,,,,,,,standard_default,low,no_size_applicable
+Recurring,05/07/2025,0,0,0,0,0,0,0,0,0,0,,,Install,,Dock Seal,0,1,21.0,150.0,3150.0,3559.5,404.55, Install,4,,,,,,,,,standard_default,low,no_size_applicable
+Loyalty,04/05/2021,0,0,0,0,0,1,0,0,0,0,,,Install,,Operator/Opener,0,1,6.0,150.0,900.0,1017.0,558.22, Install,5,,,,,,,,,standard_default,low,no_size_applicable

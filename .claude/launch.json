@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kornelsen-journal",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd webapp && npm run dev"],
+      "port": 3000
+    }
+  ]
+}
