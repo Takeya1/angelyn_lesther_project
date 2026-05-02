@@ -6,7 +6,7 @@ const router = express.Router();
 
 // ── Load encoding maps exported from Colab training ──
 const encodingMaps = JSON.parse(
-  fs.readFileSync(path.join(__dirname, '../../ml/encoding_maps.json'), 'utf8')
+  fs.readFileSync(path.join(__dirname, '../ml/encoding_maps.json'), 'utf8')
 );
 const WORK_TYPE_ENC = encodingMaps.Work_Type_TargetEnc;
 const PRODUCT_TYPE_ENC = encodingMaps.Product_Type_TargetEnc;
