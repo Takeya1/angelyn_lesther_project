@@ -101,7 +101,7 @@ router.post('/quote', async (req, res) => {
     let unit_price;
     let fallback_warning = null;
     try {
-      const mlRes = await fetch('http://localhost:8000/predict', {
+      const mlRes = await fetch(`${process.env.ML_SERVICE_URL || 'http://localhost:8000'}/predict`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(orderedFeatures),

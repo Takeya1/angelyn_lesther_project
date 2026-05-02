@@ -50,7 +50,8 @@ export default function QuoteCalculator() {
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch('/api/quote', {
+      const base = import.meta.env.VITE_API_URL || '';
+      const res = await fetch(`${base}/api/quote`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(buildPayload(form)),
